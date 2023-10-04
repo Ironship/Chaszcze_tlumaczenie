@@ -238,67 +238,69 @@ Dialogue: 0,0:10:51.68,0:10:55.46,Бабуся2,,0,0,0,,a potem na zimę trziną
 Dialogue: 0,0:10:55.47,0:10:57.59,Бабуся2,,0,0,0,,Żeby nie było zimno w chacie.
 Dialogue: 0,0:10:57.62,0:11:02.19,Бабуся2,,0,0,0,,Ludzie, którzy zbierali\Nożypałkę na bagnach, poumierali już,
 Dialogue: 0,0:11:02.21,0:11:08.31,Бабуся2,,0,0,0,,którzy pletli buty,\Nkapcie i kosze.
-Dialogue: 0,0:11:08.33,0:11:12.04,Бабуся2,,0,0,0,,Teraz tych ludzi już\Nnie ma, a młodzi ludzie...
+Dialogue: 0,0:11:08.33,0:11:12.04,Бабуся2,,0,0,0,,Teraz tych ludzi już\Nnie ma, a młodzi...
 Dialogue: 0,0:11:12.08,0:11:15.91,Бабуся2,,0,0,0,,Może ktoś pojedynczo,\Na tak to nie..
 Dialogue: 0,0:11:15.93,0:11:18.79,Бабуся2,,0,0,0,,Jedź prosto do Słobódki,
 Dialogue: 0,0:11:18.82,0:11:22.72,Бабуся2,,0,0,0,,i zobaczysz to,\Nwszystko jest zarośnięte.
 Dialogue: 0,0:11:22.74,0:11:24.28,Default,,0,0,0,,- Czy tam nie ma ludzi?
 Dialogue: 0,0:11:24.30,0:11:27.35,Бабуся2,,0,0,0,,- Tak, nie ma ludzi, to\Njest ulica (zamieszkała),
 Dialogue: 0,0:11:27.38,0:11:33.56,Бабуся2,,0,0,0,,Tutaj nic takiego nie było,\Nzarośnięta, zielona ulica.
-Dialogue: 0,0:11:33.64,0:11:37.68,Бабуся2,,0,0,0,,Tam byli ludzie - dom\Npo domu - i ludzie żyli.
+Dialogue: 0,0:11:33.64,0:11:37.68,Бабуся2,,0,0,0,,Tam byli ludzie - dom obok domu - i ludzie żyli.
 Dialogue: 0,0:11:37.71,0:11:39.77,Бабуся2,,0,0,0,,A teraz, kiedy\Ntu przeszliście...
-Dialogue: 0,0:11:39.80,0:11:40.92,Default,,0,0,0,,- I te zarośla...
+Dialogue: 0,0:11:39.80,0:11:40.92,Default,,0,0,0,,- I zarośla...
 Dialogue: 0,0:11:40.94,0:11:42.13,Бабуся2,,0,0,0,,- Tak, zarośla.
 Dialogue: 0,0:11:42.15,0:11:45.59,Бабуся2,,0,0,0,,Więc wioski już\Nwszędzie wymierają...
 Dialogue: 0,0:11:45.83,0:11:49.82,Бабуся2,,0,0,0,,Widzisz, taką mamy wojnę...
 Dialogue: 0,0:11:49.84,0:11:53.03,Бабуся2,,0,0,0,,Jednak obudziło mnie to w nocy.
-Dialogue: 0,0:11:54.17,0:11:57.99,Бабуся2,,0,0,0,,Spałem i usłyszałem grzechotanie\N(drona Shaheda), jak piła łańcuchowa,
-Dialogue: 0,0:11:58.02,0:12:00.24,Бабуся2,,0,0,0,,jak leciała gdzieś pod domem...
+Dialogue: 0,0:11:54.17,0:11:57.99,Бабуся2,,0,0,0,,Spałam i usłyszałam grzechotanie\N(drona Szacheda), jak piła łańcuchowa,
+Dialogue: 0,0:11:58.02,0:12:00.24,Бабуся2,,0,0,0,,jak leciał gdzieś koło domu...
 Dialogue: 0,0:12:00.35,0:12:06.88,Бабуся2,,0,0,0,,I na razie, na razie tam\Nbędzie, ale do 2030r,
 Dialogue: 0,0:12:06.91,0:12:10.84,Бабуся2,,0,0,0,,dopóki wszyscy nie\Nzostaniemy zniszczeni.
-Dialogue: 0,0:12:12.98,0:12:17.26,Бабуся2,,0,0,0,,Rosjanie, skąd oni to biorą...
-Dialogue: 0,0:12:17.26,0:12:18.92,Default,,0,0,0,,- Czy ktoś z twoich\Nkrewnych zginął na wojnie?
-Dialogue: 0,0:12:18.95,0:12:21.46,Бабуся2,,0,0,0,,*kiwa głową twierdząco*
-Dialogue: 0,0:12:30.06,0:12:33.26,Default,,0,0,0,,- Od samego początku\Nbardzo lubimy region Połtawy.
-Dialogue: 0,0:12:33.26,0:12:38.26,Default,,0,0,0,,Ludzie, choć spotkaliśmy ich\Nniewielu, są bardzo zieloni i zadbani.
+Dialogue: 0,0:12:12.96,0:12:15.37,Бабуся2,,0,0,0,,Rosjanie.. oniż.. skąd oni się biorą?
+Dialogue: 0,0:12:15.39,0:12:17.24,Бабуся2,,0,0,0,,Naszego Witię zabili i nie ma.
+Dialogue: 0,0:12:17.26,0:12:18.92,Default,,0,0,0,,- Zginął na wojnie?
+Dialogue: 0,0:12:18.95,0:12:24.44,Бабуся2,,0,0,0,,*kiwa głową twierdząco*
+Dialogue: 0,0:12:30.06,0:12:33.38,Default,,0,0,0,,- Od samego początku\Nbardzo lubimy region Połtawy.
+Dialogue: 0,0:12:33.43,0:12:38.26,Default,,0,0,0,,Ludzie, choć spotkaliśmy ich\Nniewielu, (mają) zieleń i zadbane.
 Dialogue: 0,0:12:38.26,0:12:41.98,Default,,0,0,0,,Dużo jest takich oryginalnych, jak\Nmówiłem, staroświeckich, ukraińskich....
-Dialogue: 0,0:12:41.98,0:12:44.88,Default,,0,0,0,,Niby dom, podwórko,\Nale nazwa ulicy...
-Dialogue: 0,0:12:44.88,0:12:46.94,Default,,0,0,0,,Popatrz na nazwę ulicy, w życiu\Nczegoś takiego nie widziałem.
+Dialogue: 0,0:12:41.98,0:12:44.88,Default,,0,0,0,,Niby gospód, podwórek,\Nale nazwa ulicy...
+Dialogue: 0,0:12:44.88,0:12:46.94,Default,,0,0,0,,Popatrzcie na nazwę ulicy, w życiu\Nczegoś takiego nie widziałem.
 Dialogue: 0,0:12:46.94,0:12:48.78,Default,,0,0,0,,Jest taka piękna, taka\Nwyjątkowa, taka piękna.
-Dialogue: 0,0:12:48.78,0:12:51.48,Default,,0,0,0,,W rzeczywistości w wiosce wszystkie\Nulice mają swoje lokalne nazwy.
-Dialogue: 0,0:12:51.48,0:12:54.18,Default,,0,0,0,,Jestem pewien, że ta nazywa się tak od\Nwieków: "Khytryi Khutir" (Przebiegła farma).
+Dialogue: 0,0:12:48.78,0:12:51.48,Default,,0,0,0,,Na wsi przecież wszystkie\Nulice mają swoje lokalne nazwy.
+Dialogue: 0,0:12:51.48,0:12:54.18,Default,,0,0,0,,Jestem pewien, że ta nazywa się tak od\Nwieków: "Chytryj Chutir" (Przebiegła farma).
 Dialogue: 0,0:12:54.18,0:12:57.60,Default,,0,0,0,,To historyczna nazwa,\Nktóra wiele mówi.
 Dialogue: 0,0:12:57.62,0:12:59.00,Default,,0,0,0,,I szkoda, że teraz\Nnie widać ludzi.
-Dialogue: 0,0:12:59.00,0:13:01.92,Default,,0,0,0,,Fajnie byłoby zapytać kogoś:\N"Dlaczego Khytryj Khutir?".
-Dialogue: 0,0:13:02.08,0:13:04.80,Default,,0,0,0,,Ludzie tu mieszkają, tylko ich nie widać,\Njest tabliczka z napisem "Khytyry Khutor",
-Dialogue: 0,0:13:04.83,0:13:07.51,Default,,0,0,0,,ale naprzeciwko, jest\No wadach lata, spójrz...
-Dialogue: 0,0:13:07.92,0:13:09.91,Default,,0,0,0,,Chodziliśmy tu\Njesienią, wiosną...
-Dialogue: 0,0:13:09.94,0:13:12.37,Default,,0,0,0,,Jest tu wiele\Nopuszczonych domów.
+Dialogue: 0,0:12:59.00,0:13:01.92,Default,,0,0,0,,Fajnie byłoby zapytać kogoś:\N"Dlaczego Chytryj Chutir?".
+Dialogue: 0,0:13:02.08,0:13:04.80,Default,,0,0,0,,Ludzie tu mieszkają, tylko ich nie widać,\Njest tabliczka z napisem "Chytryj Chutir",
+Dialogue: 0,0:13:04.83,0:13:07.51,Default,,0,0,0,,ale naprzeciwko.. tylko to minus lata\Npatrzcie
+Dialogue: 0,0:13:07.92,0:13:09.91,Default,,0,0,0,,Jakbyśmy szli tędy jesienią\Nlub wiosną
+Dialogue: 0,0:13:09.94,0:13:12.37,Default,,0,0,0,,Jest tu bardzo dużo\Nopuszczonych domów
 Dialogue: 0,0:13:12.48,0:13:15.58,Default,,0,0,0,,Połtawszczyzna wymiera - widać to\Njuż po pierwszej godzinie spędzonej tutaj.
 Dialogue: 0,0:13:15.58,0:13:17.27,Default,,0,0,0,,W pierwszej wiosce na drodze,
 Dialogue: 0,0:13:17.29,0:13:18.22,Default,,0,0,0,,jest super cywilizowana...
-Dialogue: 0,0:13:18.34,0:13:21.13,Default,,0,0,0,,Spójrz, jak zarośnięty\Njest ten dom.
+Dialogue: 0,0:13:18.34,0:13:21.13,Default,,0,0,0,,Spójrzcie jaka chata \Nzarośnięta.
 Dialogue: 0,0:13:21.64,0:13:25.44,Default,,0,0,0,,To prawdziwa ukraińska\Nkozacka mazanka.
-Dialogue: 0,0:13:28.64,0:13:32.50,Default,,0,0,0,,Ojej, co za damskie buty.
-Dialogue: 0,0:13:32.97,0:13:36.86,Default,,0,0,0,,Cholera, nawet nie sądzę, że\Nto radzieckie, ale wygląda staro...
-Dialogue: 0,0:13:37.43,0:13:40.07,Default,,0,0,0,,W rzeczywistości to moda z lat\N40-tych i 50-tych, a nie 30-tych.
+Dialogue: 0,0:13:28.64,0:13:32.50,Default,,0,0,0,,Ojej, jakie damskie buty.
+Dialogue: 0,0:13:32.97,0:13:36.86,Default,,0,0,0,,Cholera, to nawet... \Nalbo radzieckie? ale wygląda staro...
+Dialogue: 0,0:13:37.43,0:13:40.07,Default,,0,0,0,,W rzeczywistości to moda z lat\N40. i 50., jak nie 30.
 Dialogue: 0,0:13:40.09,0:13:42.60,Default,,0,0,0,,Są to czerwone buty\Ndamskie na obcasie.
 Dialogue: 0,0:13:42.63,0:13:43.81,Default,,0,0,0,,Dom jest otwarty.
 Dialogue: 0,0:13:44.83,0:13:47.74,Default,,0,0,0,,Krótko mówiąc, region\NPołtawy jest skarbnicą.
 Dialogue: 0,0:13:47.77,0:13:50.35,Default,,0,0,0,,I nie wiem, jestem\Ntu od godziny,
-Dialogue: 0,0:13:50.37,0:13:52.36,Default,,0,0,0,,i oczywiście chodzi o\Nto, co wielu klasyków
-Dialogue: 0,0:13:53.28,0:13:56.15,Default,,0,0,0,,wielu klasyków, różnych pisarzy,\Netnografów zawsze, nawet w dawnych czasach,
-Dialogue: 0,0:13:56.17,0:13:59.52,Default,,0,0,0,,nazywali Połtawę centrum\Nukraińskiej świadomości narodowej,
-Dialogue: 0,0:13:59.55,0:14:02.43,Default,,0,0,0,,tożsamość świadomości\Nnarodowej, a nawet tożsamość.
-Dialogue: 0,0:14:02.46,0:14:04.96,Default,,0,0,0,,Jeśli to była świadomość,\Nto był to Kijów lub Galicja,
-Dialogue: 0,0:14:05.05,0:14:06.08,Default,,0,0,0,,a kiedyś nawet Charków.
+Dialogue: 0,0:13:50.37,0:13:53.80,Default,,0,0,0,,i oczywiście chodzi o\Nto, że wielu klasyków
+Dialogue: 0,0:13:53.84,0:13:55.52,Default,,0,0,0,,różnych pisarzy,\Netnograrów zawsze..
+Dialogue: 0,0:13:55.54,0:13:56.37,Default,,0,0,0,,Nawet w dawnych czasach,
+Dialogue: 0,0:13:56.43,0:13:59.52,Default,,0,0,0,,nazywali Połtawę centrum\Nukraińskiej świadomości narodowej,
+Dialogue: 0,0:13:59.55,0:14:02.43,Default,,0,0,0,,tożsamości narodowej świadomości. \NNawet świadomóści.
+Dialogue: 0,0:14:02.46,0:14:04.96,Default,,0,0,0,,Jeśli była świadomość,\Nto był to Kijów lub Galicja,
+Dialogue: 0,0:14:05.05,0:14:06.08,Default,,0,0,0,,a kiedyś nawet Charków\Nswego czasu.
 Dialogue: 0,0:14:06.10,0:14:08.17,Default,,0,0,0,,Ale jeśli chodzi o\Ntożsamość, to była to Połtawa.
 Dialogue: 0,0:14:08.19,0:14:11.64,Default,,0,0,0,,Mówiło się nawet, że język\Nukraiński jest tu najbardziej ukraiński.
 Dialogue: 0,0:14:11.66,0:14:13.52,Default,,0,0,0,,Chociaż przed chwilą\Nbabcia mówiła to «-l'», «-l'».
 Dialogue: 0,0:14:13.52,0:14:16.90,Default,,0,0,0,,To połtawskie «-l'» jest\Ntakie słodkie dla moich uszu:
 Dialogue: 0,0:14:16.90,0:14:19.30,Default,,0,0,0,,«kol'i», «kol'e», cokolwiek...
 Dialogue: 0,0:14:19.44,0:14:23.58,Default,,0,0,0,,Ale tutaj, ta kultura z tymi\Nopuszczonymi domami...
-Dialogue: 0,0:14:23.58,0:14:24.62,Другий похідник,,0,0,0,,- Drzwi są bardzo obwisłe.
+Dialogue: 0,0:14:23.58,0:14:24.62,Другий похідник,,0,0,0,,- Drzwi osiadły
 Dialogue: 0,0:14:24.62,0:14:25.78,Default,,0,0,0,,- Tak...
 Dialogue: 0,0:14:28.36,0:14:30.99,Default,,0,0,0,,Cholera, nie wiem,\Nidę dalej, tu są skarby,
 Dialogue: 0,0:14:31.02,0:14:34.00,Default,,0,0,0,,które są dla mnie bardzo\Ndziwne na każdym kroku.
