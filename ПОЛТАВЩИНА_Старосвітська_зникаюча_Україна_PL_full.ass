@@ -560,7 +560,7 @@ Dialogue: 0,0:26:09.94,0:26:13.27,Default,,0,0,0,,Nie chodzi o to, że jest źle
 Dialogue: 0,0:26:29.04,0:26:32.42,Default,,0,0,0,,Dzień dobry, nie widzę cię,\Nsłyszę cię gdzieś, ale cię nie widzę.
 Dialogue: 0,0:26:34.32,0:26:36.57,Default,,0,0,0,,Dlaczego pan woła?\NPonieważ nic nie słyszymy.
 Dialogue: 0,0:26:36.59,0:26:37.99,Default,,0,0,0,,Czy słyszymy, że\Ngdzieś krzyczysz?
-Dialogue: 0,0:26:40.26,0:26:44.50,Default,,0,0,0,,Jedziemy do (wioski)\NPostav-Muki, co ty na to?
+Dialogue: 0,0:26:40.26,0:26:44.50,Default,,0,0,0,,Jedziemy do (wioski)\NPostaw-Muki, co ty na to?
 Dialogue: 0,0:26:44.99,0:26:46.07,Лежачий,,0,0,0,,- Masz coś do palenia?
 Dialogue: 0,0:26:46.24,0:26:48.20,Default,,0,0,0,,- Macie papierosa? Tak,\Nmamy, damy ci trochę.
 Dialogue: 0,0:26:48.82,0:26:52.22,Default,,0,0,0,,Czy to jest domek\Nletniskowy, czy tu mieszkacie?
@@ -773,8 +773,8 @@ Dialogue: 0,0:37:54.08,0:37:55.34,Default,,0,0,0,,Przyjeżdżają tu z ludźmi,\
 Dialogue: 0,0:37:55.37,0:37:56.20,Default,,0,0,0,,I latem.
 Dialogue: 0,0:37:56.22,0:37:58.76,Default,,0,0,0,,Może pięć osób\Nzostaje tu na zimę.
 Dialogue: 0,0:37:58.79,0:38:00.83,Default,,0,0,0,,Wszystkie domy wyglądają tak.
-Dialogue: 0,0:38:18.70,0:38:21.16,Default,,0,0,0,,Wioska oficjalnie\Nnazywa się "Postav-Muka".
-Dialogue: 0,0:38:21.16,0:38:24.68,Default,,0,0,0,,Ale wszystkie lokalne i sąsiednie\Nwioski mówią "Postav-Muky".
+Dialogue: 0,0:38:18.70,0:38:21.16,Default,,0,0,0,,Wioska oficjalnie\Nnazywa się "Postaw-Muka".
+Dialogue: 0,0:38:21.16,0:38:24.68,Default,,0,0,0,,Ale wszystkie lokalne i sąsiednie\Nwioski mówią "Postaw-Muky".
 Dialogue: 0,0:38:24.68,0:38:26.54,Default,,0,0,0,,Nie będziemy mówić\No pochodzeniu wsi.
 Dialogue: 0,0:38:26.57,0:38:29.05,Default,,0,0,0,,Oficjalnie ma to coś wspólnego\Nz faktem, że było tu wiele młynów.
 Dialogue: 0,0:38:29.16,0:38:30.08,Default,,0,0,0,,No i "Postaw Mąkę".
@@ -926,9 +926,9 @@ Dialogue: 0,0:44:04.72,0:44:06.28,Чоловік1,,0,0,0,,{\pos(1223,709)}Kto ci
 Dialogue: 0,0:44:06.40,0:44:09.02,Чоловік1,,0,0,0,,{\pos(1223,709)}Jest hałas lodów,
 Dialogue: 0,0:44:09.05,0:44:11.04,Чоловік1,,0,0,0,,{\pos(1223,709)}a ty już jesteś filmowany.
 Dialogue: 0,0:44:11.66,0:44:13.08,Чоловік1,,0,0,0,,{\pos(1223,709)}On się boi, żeby\Ngo nie sfilmowano.
-Dialogue: 0,0:44:15.20,0:44:17.88,Default,,0,0,0,,- Wasza wioska oficjalnie\Nnazywa się "Postav-Muka".
-Dialogue: 0,0:44:17.88,0:44:23.32,Default,,0,0,0,,Ale ty mówisz\N"Postav-Muky", prawda?
-Dialogue: 0,0:44:25.53,0:44:27.04,Чоловік1,,0,0,0,,{\pos(1223,709)}- Postav-Muku.
+Dialogue: 0,0:44:15.20,0:44:17.88,Default,,0,0,0,,- Wasza wioska oficjalnie\Nnazywa się "Postaw-Muka".
+Dialogue: 0,0:44:17.88,0:44:23.32,Default,,0,0,0,,Ale ty mówisz\N"Postaw-Muky", prawda?
+Dialogue: 0,0:44:25.53,0:44:27.04,Чоловік1,,0,0,0,,{\pos(1223,709)}- Postaw-Muku.
 Dialogue: 0,0:44:27.06,0:44:30.27,Чоловік1,,0,0,0,,{\pos(1223,709)}Opowiem ci biografię,\Njeśli jesteś zainteresowany.
 Dialogue: 0,0:44:30.29,0:44:32.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Dziadek zabrał w góry.
 Dialogue: 0,0:44:34.38,0:44:36.84,Чоловік1,,0,0,0,,{\pos(1223,709)}Koń ich nie udźwignął.
@@ -939,16 +939,16 @@ Dialogue: 0,0:44:43.52,0:44:44.41,Default,,0,0,0,,- Wiatraki.
 Dialogue: 0,0:44:44.43,0:44:45.43,Чоловік1,,0,0,0,,{\pos(1223,709)}- Wiatraki.
 Dialogue: 0,0:44:45.50,0:44:50.72,Чоловік1,,0,0,0,,{\pos(1223,709)}Zabrał połowę,\Nwyniósł i przyszedł tutaj.
 Dialogue: 0,0:44:50.74,0:44:52.30,Чоловік1,,0,0,0,,{\pos(1223,709)}A tu ktoś kradł mąkę.
-Dialogue: 0,0:44:52.32,0:44:56.16,Чоловік1,,0,0,0,,{\pos(1223,709)}Powiedział: "Odłóż mąkę\N(Postav muku) z powrotem".
+Dialogue: 0,0:44:52.32,0:44:56.16,Чоловік1,,0,0,0,,{\pos(1223,709)}Powiedział: "Odłóż mąkę\N(Postaw muku) z powrotem".
 Dialogue: 0,0:44:56.16,0:44:57.50,Чоловік1,,0,0,0,,{\pos(1223,709)}I tak to się nazywało.
-Dialogue: 0,0:44:57.52,0:45:00.72,Чоловік1,,0,0,0,,{\pos(1223,709)}Potem zaczęto\Nmówić "Postav-Muky".
+Dialogue: 0,0:44:57.52,0:45:00.72,Чоловік1,,0,0,0,,{\pos(1223,709)}Potem zaczęto\Nmówić "Postaw-Muky".
 Dialogue: 0,0:45:00.74,0:45:03.36,Чоловік1,,0,0,0,,{\pos(1223,709)}Potem zmienili\Nto na "y" (akcent).
 Dialogue: 0,0:45:03.38,0:45:07.76,Чоловік1,,0,0,0,,{\pos(1223,709)}Usłyszałem to\Nponownie w tej biografii.
 Dialogue: 0,0:45:07.79,0:45:09.42,Чоловік1,,0,0,0,,{\pos(1223,709)}Tym razem przez "y".
-Dialogue: 0,0:45:09.44,0:45:12.81,Чоловік1,,0,0,0,,{\pos(1223,709)}Ale w rzeczywistości\Nbyło to "Postav-Muku".
+Dialogue: 0,0:45:09.44,0:45:12.81,Чоловік1,,0,0,0,,{\pos(1223,709)}Ale w rzeczywistości\Nbyło to "Postaw-Muku".
 Dialogue: 0,0:45:14.11,0:45:16.78,Чоловік1,,0,0,0,,{\pos(1223,709)}Ale słyszysz (źle),\Noni idą do Pisky.
 Dialogue: 0,0:45:17.60,0:45:20.63,Чоловік1,,0,0,0,,{\pos(1223,709)}Jadą też do klasztorów.
-Dialogue: 0,0:45:33.08,0:45:35.48,Default,,0,0,0,,- Jesteśmy w Postav-Muku.
+Dialogue: 0,0:45:33.08,0:45:35.48,Default,,0,0,0,,- Jesteśmy w Postaw-Muku.
 Dialogue: 0,0:45:36.08,0:45:39.77,Default,,0,0,0,,Widziałeś to. Piliśmy\Nwódkę. Z tymi wujkami.
 Dialogue: 0,0:45:39.79,0:45:41.14,Default,,0,0,0,,Powodem nie była wódka.
 Dialogue: 0,0:45:41.17,0:45:43.52,Default,,0,0,0,,Wódka, oczywiście,\Ndodawała swojego...
@@ -1089,7 +1089,7 @@ Dialogue: 0,0:50:56.78,0:50:59.02,Default,,0,0,0,,W regionie Połtawy, w\Nnowocz
 Dialogue: 0,0:50:59.05,0:51:01.90,Default,,0,0,0,,w dawnym rejonie czornuchskim.
 Dialogue: 0,0:51:09.08,0:51:10.30,Default,,0,0,0,,Drugi dzień wyprawy.
 Dialogue: 0,0:51:10.32,0:51:12.36,Default,,0,0,0,,Zeszliśmy z Velyka\NHora, z Bila Hora,
-Dialogue: 0,0:51:12.38,0:51:14.26,Default,,0,0,0,,która znajduje się\Ntutaj, w Postav-Muky.
+Dialogue: 0,0:51:12.38,0:51:14.26,Default,,0,0,0,,która znajduje się\Ntutaj, w Postaw-Muky.
 Dialogue: 0,0:51:14.28,0:51:18.20,Default,,0,0,0,,Teraz poruszamy się na\Nzachód przez duży obszar leśny,
 Dialogue: 0,0:51:18.22,0:51:20.02,Default,,0,0,0,,który rozciąga się na\Nokoło 10 kilometrów
 Dialogue: 0,0:51:20.02,0:51:22.46,Default,,0,0,0,,do wioski Pisky,\Nczyli Pisky-Udai.
@@ -1097,7 +1097,7 @@ Dialogue: 0,0:51:22.50,0:51:23.52,Default,,0,0,0,,Tutaj znowu z tymi akcentami.
 Dialogue: 0,0:51:23.62,0:51:25.36,Default,,0,0,0,,Ale wiem, że w\Nukraińskich nazwach
 Dialogue: 0,0:51:25.39,0:51:28.01,Default,,0,0,0,,bardzo często, z jakiegoś powodu,\NPisky nadal pisze się Pisky, a nie PiskY.
 Dialogue: 0,0:51:28.28,0:51:29.39,Default,,0,0,0,,Ale...
-Dialogue: 0,0:51:30.00,0:51:32.78,Default,,0,0,0,,fakt, że wczoraj szliśmy tam\Ngłówną ulicą, Postav-Muki,
+Dialogue: 0,0:51:30.00,0:51:32.78,Default,,0,0,0,,fakt, że wczoraj szliśmy tam\Ngłówną ulicą, Postaw-Muki,
 Dialogue: 0,0:51:32.81,0:51:34.44,Default,,0,0,0,,i wyglądała bardzo żywo.
 Dialogue: 0,0:51:34.46,0:51:36.16,Default,,0,0,0,,Tam naprawdę tętni\Nżycie, to jedna z ulic.
 Dialogue: 0,0:51:36.54,0:51:37.68,Default,,0,0,0,,Wioska jest bardzo rozległa.
@@ -1127,7 +1127,7 @@ Dialogue: 0,0:52:25.71,0:52:28.48,Default,,0,0,0,,I patrzę - raz (dom), raz (do
 Dialogue: 0,0:52:28.78,0:52:30.97,Default,,0,0,0,,w środku lasu. Wow!
 Dialogue: 0,0:52:31.34,0:52:32.88,Default,,0,0,0,,O jakim Czarnobylu tutaj mówimy?
 Dialogue: 0,0:52:32.91,0:52:35.94,Default,,0,0,0,,Uczeni Czarnobyla, ci, którzy\Nlubią odkrywać Czarnobyl,
-Dialogue: 0,0:52:35.96,0:52:38.76,Default,,0,0,0,,przyjeżdżają tutaj,\Nwioska Postav-Muki.
+Dialogue: 0,0:52:35.96,0:52:38.76,Default,,0,0,0,,przyjeżdżają tutaj,\Nwioska Postaw-Muki.
 Dialogue: 0,0:52:38.78,0:52:40.30,Default,,0,0,0,,Nigdy w życiu czegoś\Ntakiego nie widziałem.
 Dialogue: 0,0:52:40.32,0:52:45.05,Default,,0,0,0,,Na takim odludziu wśród lasów, a\Njak dawno te domy były opuszczone.
 Dialogue: 0,0:52:50.55,0:52:53.82,Default,,0,0,0,,Nie wiem, to nierealne, aby przekazać\Nto widzom w jakimkolwiek filmie,
