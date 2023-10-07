@@ -29,7 +29,8 @@ Style: Просто курсив,Arial,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.00,0:00:10.40,Default,,0,0,0,,Chaszcze (ukr. Хащі) [nie przełączaj]
 Dialogue: 0,0:00:11.67,0:00:30.40,Default,,0,0,0,,♫ Morwan - Smutek [ukr. Ж​у​р​б​а] ♫
-Dialogue: 0,0:00:31.83,0:00:36.03,Default,,0,0,0,,W końcu nadszedł ten dzień, o którym osobiście\Nmarzyłem od bardzo, bardzo, bardzo dawna,
+Dialogue: 0,0:00:31.83,0:00:34.66,Default,,0,0,0,,W końcu nadszedł ten\Ndzień, o którym osobiście marzyłem
+Dialogue: 0,0:00:34.68,0:00:36.03,Default,,0,0,0,,od bardzo, bardzo, bardzo dawna,
 Dialogue: 0,0:00:36.06,0:00:37.35,Default,,0,0,0,,prawdopodobnie od kilku lat.
 Dialogue: 0,0:00:37.38,0:00:39.81,Default,,0,0,0,,Dziś będziemy szukać\NUkrainy Starego Świata.
 Dialogue: 0,0:00:39.83,0:00:43.41,Default,,0,0,0,,Prawdziwej Ukrainy Starego Świata,\Ntakiej jaka była w XIX w,
