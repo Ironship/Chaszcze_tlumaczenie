@@ -414,7 +414,7 @@ Dialogue: 0,0:19:44.56,0:19:46.68,Default,,0,0,0,,Jesteście stąd?
 Dialogue: 0,0:19:46.80,0:19:47.48,Біженець,,0,0,0,,Nie.
 Dialogue: 0,0:19:47.60,0:19:50.04,Default,,0,0,0,,Podróżujecie? Tak jak my.
 Dialogue: 0,0:19:50.16,0:19:52.92,Біженець,,0,0,0,,Nie, jestem z Energodaru.
-Dialogue: 0,0:19:54.32,0:19:56.80,Default,,0,0,0,,- A to wy jesteście z Energodaru? \NWięc jesteście uchodźcą?
+Dialogue: 0,0:19:54.32,0:19:56.80,Default,,0,0,0,,A to wy jesteście z Energodaru? \NWięc jesteście uchodźcą?
 Dialogue: 0,0:19:56.92,0:19:57.60,Біженець,,0,0,0,,Tak.
 Dialogue: 0,0:19:57.72,0:19:59.92,Default,,0,0,0,,Ach, no tak, tam byli Rosjanie, czy\Nudało się wam wyjechać przez Wasyliwkę?
 Dialogue: 0,0:19:59.92,0:20:00.68,Біженець,,0,0,0,,Tak, przez Wasyliwkę.
@@ -453,7 +453,7 @@ Dialogue: 0,0:21:15.44,0:21:18.00,Біженець,,0,0,0,,Spawarki to tam nic, 
 Dialogue: 0,0:21:18.12,0:21:21.96,Біженець,,0,0,0,,A tak ot siedzieliśmy w garażu, a oni\N(Rosjanie) ostrzeliwali siebie nawzajem.
 Dialogue: 0,0:21:22.08,0:21:23.68,Біженець,,0,0,0,,A potem mówili, że to nasza\N(ukraińska) robota.
 Dialogue: 0,0:21:23.68,0:21:26.36,Біженець,,0,0,0,,Huk i pocisk nad moją głowa poleciał.
-Dialogue: 0,0:21:26.48,0:21:29.32,Default,,0,0,0,,- Myślicie, że mogą wysadzić?\N- Bo teraz tak coś takiego mówią.
+Dialogue: 0,0:21:26.48,0:21:29.32,Default,,0,0,0,,Myślicie, że mogą wysadzić? \NBo teraz tak coś takiego mówią.
 Dialogue: 0,0:21:29.44,0:21:30.48,Біженець,,0,0,0,,To nie ma sensu.
 Dialogue: 0,0:21:30.60,0:21:31.64,Default,,0,0,0,,Nie odważyliby się, prawda?
 Dialogue: 0,0:21:31.64,0:21:34.28,Біженець,,0,0,0,,Nie będzie żadnej katastrofy, nic.
@@ -475,7 +475,7 @@ Dialogue: 0,0:22:07.56,0:22:08.64,Біженець,,0,0,0,,To jest RIGA-7 (motor
 Dialogue: 0,0:22:08.76,0:22:10.44,Default,,0,0,0,,To coś radzieckiego, prawda?
 Dialogue: 0,0:22:10.56,0:22:12.00,Біженець,,0,0,0,,50 lat.
 Dialogue: 0,0:22:12.12,0:22:14.40,Default,,0,0,0,,Gdzieś go znaleźliście, to\Nrzadkość, naprawdę.
-Dialogue: 0,0:22:14.52,0:22:17.24,Біженець,,0,0,0,,- To mój pierwszy motorower.\N- Dostałem w ósmej klasie.
+Dialogue: 0,0:22:14.52,0:22:17.24,Біженець,,0,0,0,,To mój pierwszy motorower.\NDostałem w ósmej klasie.
 Dialogue: 0,0:22:17.36,0:22:19.12,Default,,0,0,0,,Naprawdę? Od młodości został sprawny?
 Dialogue: 0,0:22:19.24,0:22:20.04,Біженець,,0,0,0,,Tak.
 Dialogue: 0,0:22:20.16,0:22:21.80,Default,,0,0,0,,Powiedzcie nam, sklepu\Ntu nie ma na pewno?
@@ -489,24 +489,26 @@ Dialogue: 0,0:22:30.72,0:22:32.72,Default,,0,0,0,,Kiedyś chodziliśmy 40\Nkilom
 Dialogue: 0,0:22:32.84,0:22:34.56,Default,,0,0,0,,Teraz jest to średnio około 20 kilometrów,
 Dialogue: 0,0:22:34.68,0:22:37.76,Default,,0,0,0,,ponieważ wciąż kręcimy filmy\No wioskach, prawdziwe.
 Dialogue: 0,0:22:46.24,0:22:48.68,Default,,0,0,0,,Przyroda w regionie Połtawy\Njest niesamowita i przyjemna.
-Dialogue: 0,0:22:48.80,0:22:50.24,Default,,0,0,0,,Czterech z nas jedzie\Nteraz na ekspedycji,
+Dialogue: 0,0:22:48.80,0:22:50.24,Default,,0,0,0,,Czterech z nas idzie\Nteraz na ekspedycji,
 Dialogue: 0,0:22:50.24,0:22:53.12,Default,,0,0,0,,I my naprawdę czerpiemy przyjemność,\Npomimo tego upału,
 Dialogue: 0,0:22:53.24,0:22:56.00,Default,,0,0,0,,bardzo wysoka duszczność, wilgoć,
 Dialogue: 0,0:22:56.12,0:22:58.28,Default,,0,0,0,,I strasznie dużo komarów.
 Dialogue: 0,0:22:58.40,0:23:00.92,Default,,0,0,0,,Jechaliśmy z Wołynia, myśląc, że przynajmniej\Nw regionie Połtawy nie będzie komarów,
 Dialogue: 0,0:23:00.92,0:23:04.52,Default,,0,0,0,,Ale to musiało być jakieś lato, że one\Nnas po prostu zjadały na każdym kroku.
-Dialogue: 0,0:23:04.64,0:23:09.24,Default,,0,0,0,,Zeszaliśmy do drugiej wioski\Nna naszej trasie, Lisowej Slobidki.
-Dialogue: 0,0:23:09.36,0:23:13.08,Default,,0,0,0,,I tutaj znowu są te elementy\Nstarej Ukrainy, chata.
-Dialogue: 0,0:23:13.20,0:23:14.88,Default,,0,0,0,,To nie jest chata,\Ntrudno teraz powiedzieć,
+Dialogue: 0,0:23:04.64,0:23:09.24,Default,,0,0,0,,Zeszliśmy do drugiej wioski\Nna naszej trasie, Lisowej Slobidki.
+Dialogue: 0,0:23:09.36,0:23:13.08,Default,,0,0,0,,I tutaj znowu są te elementy\Nstaroświeckiej Ukrainy, chata.
+Dialogue: 0,0:23:13.20,0:23:14.88,Default,,0,0,0,,To nie jest chata,\Ntrudno określić,
 Dialogue: 0,0:23:14.92,0:23:17.48,Default,,0,0,0,,na pewno opuszczona,\Nznowu pod trzcinami.
 Dialogue: 0,0:23:17.60,0:23:19.28,Default,,0,0,0,,Albo chata, albo\Nstodoła, albo jakaś szopa.
 Dialogue: 0,0:23:19.32,0:23:23.56,Default,,0,0,0,,Ale tutaj są przy wejściu, przy\Nwejściu do tej Lisowej Slobidki.
-Dialogue: 0,0:23:23.68,0:23:27.20,Default,,0,0,0,,A wcześniej w (wiosce) Horodszcze\Npowiedziano nam, że jest tu 15 mieszkańców.
+Dialogue: 0,0:23:23.68,0:23:27.20,Default,,0,0,0,,A wcześniej w (wiosce) Horodyszcze\Npowiedziano nam, że jest tu 15 mieszkańców.
 Dialogue: 0,0:23:27.32,0:23:32.16,Default,,0,0,0,,Człowiek, wymuszony przesiedleniec\Nz Energodaru, nie wie, ile osób tu jest.
 Dialogue: 0,0:23:32.28,0:23:34.24,Default,,0,0,0,,Więc zaraz zejdziemy niżej i zobaczymy.
-Dialogue: 0,0:23:34.36,0:23:39.80,Default,,0,0,0,,Jedyną rzeczą, która prawdopodobnie daje jakiś\Nzwiązek ze współczesnym światem, jest asfaltowa droga.
+Dialogue: 0,0:23:34.36,0:23:37.04,Default,,0,0,0,,Jedyną rzeczą, która\Nprawdopodobnie daje jakiś
+Dialogue: 0,0:23:37.04,0:23:39.80,Default,,0,0,0,,związek ze współczesnym\Nświatem, jest asfaltowa droga.
 Dialogue: 0,0:23:39.92,0:23:42.48,Default,,0,0,0,,To bardzo dziwne, że wioska\Nlicząca 15 osób ma asfalt.
-Dialogue: 0,0:23:42.60,0:23:48.20,Default,,0,0,0,,W każdym razie idziemy wzdłuż tej Lisowej\NSlobidki, a tam już dziesiątki opuszczonych domów.
+Dialogue: 0,0:23:42.60,0:23:44.75,Default,,0,0,0,,W każdym razie, \Nidziemy wzdłuż tej Lisowej Slobidki,
+Dialogue: 0,0:23:44.75,0:23:48.20,Default,,0,0,0,,a tu już dziesiątki\Nopuszczonych domów.
 Dialogue: 0,0:23:48.32,0:23:49.92,Default,,0,0,0,,Wioska jest praktycznie martwa.
 Dialogue: 0,0:23:50.04,0:23:52.36,Default,,0,0,0,,I właśnie rozmawialiśmy z\Nchłopakami, z kamerzystą:
 Dialogue: 0,0:23:52.48,0:23:53.52,Default,,0,0,0,,"Jak to wszystko pokazać?"
@@ -516,7 +518,7 @@ Dialogue: 0,0:23:58.84,0:24:00.44,Default,,0,0,0,,najwidoczniej został niedawno
 Dialogue: 0,0:24:00.56,0:24:02.84,Default,,0,0,0,,I wyróżnia się jak na otwartej dłoni\Nna tle reszty wioski.
 Dialogue: 0,0:24:02.88,0:24:05.80,Default,,0,0,0,,Rzeczywiście widać, że nikt tam nie\Nmieszka, jest zarośnięte i opuszczone.
 Dialogue: 0,0:24:05.92,0:24:07.24,Default,,0,0,0,,Wszystkie inne wyglądają...
-Dialogue: 0,0:24:07.36,0:24:09.24,Default,,0,0,0,,Patrze, wychodzimy teraz.
+Dialogue: 0,0:24:07.36,0:24:09.24,Default,,0,0,0,,Patrzcie, wychodzimy teraz.
 Dialogue: 0,0:24:09.36,0:24:11.84,Default,,0,0,0,,Tam jest szopa, tu patrzcie jest szopa.
 Dialogue: 0,0:24:11.96,0:24:14.72,Default,,0,0,0,,A tam, w tym przypadku, nie ma...
 Dialogue: 0,0:24:14.84,0:24:16.08,Default,,0,0,0,,A chociaż jest też.
@@ -539,23 +541,25 @@ Dialogue: 0,0:24:56.68,0:25:01.20,Default,,0,0,0,,Połtawszczyzna jest dla mnie 
 Dialogue: 0,0:25:01.32,0:25:04.08,Default,,0,0,0,,Dokładnie, ale każdy ma swoje zdanie.
 Dialogue: 0,0:25:04.20,0:25:06.52,Default,,0,0,0,,To subiektywne wrażenie.
 Dialogue: 0,0:25:06.64,0:25:09.00,Default,,0,0,0,,Ach, woda, świetnie, w\Nkońcu napijemy się świeżej wody.
-Dialogue: 0,0:25:09.12,0:25:11.56,Default,,0,0,0,,Swoją drogą, którego spotyka mu już\Nżurawia studziennego, prawda?
+Dialogue: 0,0:25:09.12,0:25:11.56,Default,,0,0,0,,Swoją drogą, którego spotykamy tu\Nżurawia studziennego, prawda?
 Dialogue: 0,0:25:11.56,0:25:16.72,Другий похідник,,0,0,0,,Podoba mi się to, że studnie\Nczęsto znajdują się poza podwórkiem.
 Dialogue: 0,0:25:16.84,0:25:19.56,Другий похідник,,0,0,0,,Oznacza to, że każdy idący\Nulicą może wziąć wody i napić się.
 Dialogue: 0,0:25:19.68,0:25:23.56,Default,,0,0,0,,Robiono temu, ponieważ budowa\Nstudni była dość kosztowna.
 Dialogue: 0,0:25:23.68,0:25:25.96,Default,,0,0,0,,Robiono ją przynajmniej dla\Nkilku gospodarstw domowych.
-Dialogue: 0,0:25:26.08,0:25:30.08,Default,,0,0,0,,Tylko niektórzy super zamożni właściciele mogli\Nsobie pozwolić na zrobienie jej pod domem.
+Dialogue: 0,0:25:26.08,0:25:27.79,Default,,0,0,0,,Tylko jakiś super\Nzamożny właściciel
+Dialogue: 0,0:25:27.79,0:25:30.08,Default,,0,0,0,,mógł sobie pozwolić na\Nzrobienie jej pod domem.
 Dialogue: 0,0:25:30.20,0:25:31.68,Default,,0,0,0,,Robiono je dla kilku (gospodarstw\Ndomowych) i wszyscy wychodzili na drogę.
 Dialogue: 0,0:25:31.68,0:25:33.96,Default,,0,0,0,,A nawet ile (odniesień) jest w\Nstarych ukraińskich klasykach,
 Dialogue: 0,0:25:33.96,0:25:36.28,Default,,0,0,0,,że "zbierali się przy studni\Ni wychodzili po wodę".
 Dialogue: 0,0:25:36.40,0:25:39.24,Default,,0,0,0,,To tak, jakby teraz wyjść do\Nkawiarni lub restauracji w Kijowie.
 Dialogue: 0,0:25:39.36,0:25:43.48,Default,,0,0,0,,Są znajomi, flirty, wiejskie\Nplotki, babki ze swoimi myślami.
-Dialogue: 0,0:25:43.60,0:25:47.56,Другий похідник,,0,0,0,,100%, ale ogólnie rzecz biorąc, nawet dla\Npodróżnika, jest to absolutnie przystępna rzecz.
+Dialogue: 0,0:25:43.60,0:25:46.16,Другий похідник,,0,0,0,,stuprocentowo, ale ogólnie\Nrzecz biorąc, nawet dla podróżującego
+Dialogue: 0,0:25:46.20,0:25:47.56,Другий похідник,,0,0,0,,jest to absolutnie dostępna rzecz.
 Dialogue: 0,0:25:47.68,0:25:49.72,Другий похідник,,0,0,0,,Chociaż można to zrobić\Nmiędzy dwoma a trzema podwórkami.
 Dialogue: 0,0:25:49.72,0:25:52.40,Другий похідник,,0,0,0,,To było często robione na granicy.
 Dialogue: 0,0:25:52.52,0:25:56.32,Другий похідник,,0,0,0,,Nie będę wymieniał ale w niektórych\Nregionach, w kierunku zachodu
 Dialogue: 0,0:25:56.44,0:25:59.48,Другий похідник,,0,0,0,,były wioski, gdzie mijało się\Npo drodze dziesiątki wiosek,
-Dialogue: 0,0:25:59.60,0:26:02.96,Другий похідник,,0,0,0,,i nie tylko nie ma nigdzie byle płotu
+Dialogue: 0,0:25:59.60,0:26:02.96,Другий похідник,,0,0,0,,i nie tylko nie ma nigdzie\Nprzy płocie (studni)
 Dialogue: 0,0:26:03.08,0:26:04.12,Другий похідник,,0,0,0,,ale gdzieś głębiej ukryta.
 Dialogue: 0,0:26:04.24,0:26:07.16,Default,,0,0,0,,Wspominałem już o tym\Npoczuciu własności prywatnej,
 Dialogue: 0,0:26:07.28,0:26:09.84,Default,,0,0,0,,Im dalej na zachód u Europejczyków.
@@ -607,7 +611,7 @@ Dialogue: 0,0:28:05.92,0:28:08.04,Другий похідник,,0,0,0,,Zwykle d
 Dialogue: 0,0:28:08.16,0:28:10.84,Другий похідник,,0,0,0,,łączono czymś, pierścień dokładano i tyle.
 Dialogue: 0,0:28:10.96,0:28:14.32,Другий похідник,,0,0,0,,Mam taki u babci\Nteż taki 100-120 lat ma.
 Dialogue: 0,0:28:14.44,0:28:15.20,Default,,0,0,0,,Ten też.
-Dialogue: 0,0:28:15.32,0:28:17.76,Default,,0,0,0,,Obiecaliśmy wam Ukrainę Starego Świata.
+Dialogue: 0,0:28:15.32,0:28:17.76,Default,,0,0,0,,Obiecaliśmy wam staroświecką Ukrainę?
 Dialogue: 0,0:28:17.88,0:28:18.56,Default,,0,0,0,,Podziwiajcie.
 Dialogue: 0,0:28:18.68,0:28:19.24,Другий похідник,,0,0,0,,Piękne.
 Dialogue: 0,0:28:19.36,0:28:20.12,Default,,0,0,0,,To jest naprawdę to.
