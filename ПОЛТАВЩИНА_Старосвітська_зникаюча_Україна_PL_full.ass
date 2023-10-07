@@ -478,32 +478,32 @@ Dialogue: 0,0:22:19.24,0:22:20.14,Біженець,,0,0,0,,- Tak.
 Dialogue: 0,0:22:20.16,0:22:21.80,Default,,0,0,0,,- Powiedzcie nam, sklepu tu nie ma na pewno?
 Dialogue: 0,0:22:21.82,0:22:22.28,Біженець,,0,0,0,,- Jest.
 Dialogue: 0,0:22:22.30,0:22:22.76,Default,,0,0,0,,- Jest?
-Dialogue: 0,0:22:22.79,0:22:23.62,Біженець,,0,0,0,,- W [wiosce] Postav-Muky, tak.
-Dialogue: 0,0:22:23.64,0:22:25.26,Default,,0,0,0,,- Och, w Postav-Muky,\Npytam o (wieś) Slobidka.
-Dialogue: 0,0:22:25.26,0:22:27.74,Біженець,,0,0,0,,- W Slobidce nie ma\Nsklepu. Ile dziennie chodzisz?
-Dialogue: 0,0:22:27.76,0:22:30.26,Default,,0,0,0,,- Wciąż kręcimy filmy,\Nwięc teraz to niewiele.
-Dialogue: 0,0:22:30.72,0:22:32.83,Default,,0,0,0,,Kiedyś chodziliśmy 40\Nkilometrów lub więcej.
+Dialogue: 0,0:22:22.79,0:22:23.62,Біженець,,0,0,0,,- W (we wsi) Muky, tak.
+Dialogue: 0,0:22:23.64,0:22:25.26,Default,,0,0,0,,- Och, w Postaw-Muky\Npytam o (wieś) Slobidkę.
+Dialogue: 0,0:22:25.26,0:22:27.74,Біженець,,0,0,0,,- W Slobidce nie ma\Nsklepu. Ile dziennie przechodzicie?
+Dialogue: 0,0:22:27.76,0:22:30.26,Default,,0,0,0,,- My kręcimy jeszcze filmy,\Nto teraz nie dużo.
+Dialogue: 0,0:22:30.72,0:22:32.83,Default,,0,0,0,,Kiedyś chodziliśmy 40\Nkilometrów i więcej.
 Dialogue: 0,0:22:32.85,0:22:34.63,Default,,0,0,0,,Teraz jest to średnio\Nokoło 20 kilometrów,
-Dialogue: 0,0:22:34.66,0:22:37.77,Default,,0,0,0,,ponieważ wciąż kręcimy filmy\No wioskach i autentyczności.
+Dialogue: 0,0:22:34.66,0:22:37.77,Default,,0,0,0,,ponieważ wciąż kręcimy filmy\No wioskach, prawdziwe.
 Dialogue: 0,0:22:46.24,0:22:48.78,Default,,0,0,0,,Przyroda w regionie Połtawy\Njest niesamowita i przyjemna.
-Dialogue: 0,0:22:48.81,0:22:50.21,Default,,0,0,0,,Czterech z nas jedzie\Nteraz na wyprawę,
-Dialogue: 0,0:22:50.23,0:22:53.20,Default,,0,0,0,,naprawdę dobrze się\Nbawimy, pomimo tego upału,
-Dialogue: 0,0:22:53.22,0:22:56.09,Default,,0,0,0,,bardzo wysoka\Nwilgotność, duszność,
+Dialogue: 0,0:22:48.81,0:22:50.21,Default,,0,0,0,,Czterech z nas jedzie\Nteraz na ekspedycji,
+Dialogue: 0,0:22:50.23,0:22:53.20,Default,,0,0,0,,I my naprawdę czerpiemy przyjemność,\Npomimo tego upału,
+Dialogue: 0,0:22:53.22,0:22:56.09,Default,,0,0,0,,bardzo wysoka\Nduszczność, wilgoć,
 Dialogue: 0,0:22:56.11,0:22:58.38,Default,,0,0,0,,I strasznie dużo komarów.
 Dialogue: 0,0:22:58.40,0:23:00.90,Default,,0,0,0,,Jechaliśmy z Wołynia, myśląc, że przynajmniej\Nw regionie Połtawy nie będzie komarów,
 Dialogue: 0,0:23:00.90,0:23:04.45,Default,,0,0,0,,Ale to musiało być jakieś lato, że one\Nnas po prostu zjadały na każdym kroku.
-Dialogue: 0,0:23:04.64,0:23:09.24,Default,,0,0,0,,Zjechaliśmy do drugiej wioski\Nna naszej trasie, Lisovej Slobidki.
+Dialogue: 0,0:23:04.64,0:23:09.24,Default,,0,0,0,,Zeszaliśmy do drugiej wioski\Nna naszej trasie, Lisowej Slobidki.
 Dialogue: 0,0:23:09.34,0:23:13.08,Default,,0,0,0,,I tutaj znowu są te elementy\Nstarej Ukrainy, chata.
 Dialogue: 0,0:23:13.18,0:23:14.86,Default,,0,0,0,,To nie jest chata,\Ntrudno teraz powiedzieć,
 Dialogue: 0,0:23:14.90,0:23:17.47,Default,,0,0,0,,na pewno opuszczona,\Nznowu pod trzcinami.
 Dialogue: 0,0:23:17.58,0:23:19.24,Default,,0,0,0,,Albo chata, albo\Nstodoła, albo jakaś szopa.
 Dialogue: 0,0:23:19.32,0:23:23.60,Default,,0,0,0,,Ale tutaj są przy wejściu, przy\Nwejściu do tej Lisowej Slobidki.
-Dialogue: 0,0:23:23.68,0:23:27.31,Default,,0,0,0,,A wcześniej w (wiosce) Horodyshi\Npowiedziano nam, że jest tu 15 osób.
-Dialogue: 0,0:23:29.23,0:23:32.19,Default,,0,0,0,,Mój mąż, wewnętrzny przesiedleniec\Nz Enerhodaru, nie wie, ile osób tu jest.
-Dialogue: 0,0:23:32.28,0:23:34.34,Default,,0,0,0,,Pojedziemy więc i zobaczymy.
+Dialogue: 0,0:23:23.68,0:23:27.29,Default,,0,0,0,,A wcześniej w (wiosce) Horodszcze\Npowiedziano nam, że jest tu 15 mieszkańców.
+Dialogue: 0,0:23:27.33,0:23:32.19,Default,,0,0,0,,Człowiek, wymuszony przesiedleniec\Nz Energodaru, nie wie, ile osób tu jest.
+Dialogue: 0,0:23:32.28,0:23:34.34,Default,,0,0,0,,Więc zaraz zejdziemy \Nniżej i zobaczymy.
 Dialogue: 0,0:23:34.36,0:23:39.86,Default,,0,0,0,,Jedyną rzeczą, która prawdopodobnie daje jakiś\Nzwiązek ze współczesnym światem, jest asfaltowa droga.
 Dialogue: 0,0:23:39.90,0:23:42.44,Default,,0,0,0,,To bardzo dziwne, że wioska\Nlicząca 15 osób ma asfalt.
-Dialogue: 0,0:23:42.58,0:23:48.24,Default,,0,0,0,,W każdym razie idziemy wzdłuż tej Lisovej\NSlobidki, a tam już dziesiątki opuszczonych domów.
+Dialogue: 0,0:23:42.58,0:23:48.24,Default,,0,0,0,,W każdym razie idziemy wzdłuż tej Lisowej\NSlobidki, a tam już dziesiątki opuszczonych domów.
 Dialogue: 0,0:23:48.32,0:23:50.01,Default,,0,0,0,,Wioska jest praktycznie martwa.
 Dialogue: 0,0:23:50.04,0:23:52.44,Default,,0,0,0,,I właśnie rozmawialiśmy z\Nchłopakami, z kamerzystą:
 Dialogue: 0,0:23:52.46,0:23:53.45,Default,,0,0,0,,"Jak możemy to pokazać?".
