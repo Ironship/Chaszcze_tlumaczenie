@@ -43,7 +43,7 @@ Dialogue: 0,0:00:56.98,0:00:59.60,Default,,0,0,0,,gdzie wszystkie czasowniki\Npr
 Dialogue: 0,0:00:59.72,0:01:01.40,Default,,0,0,0,,«kopat'» (kopać), «robyt'»\N(robić), «kochat'» (kochać).
 Dialogue: 0,0:01:01.40,0:01:04.56,Default,,0,0,0,,To piękny, zielony region Połtawy.
 Dialogue: 0,0:01:04.68,0:01:08.48,Default,,0,0,0,,A oto poniżej, rozległa dolina rzeki Udaj,
-Dialogue: 0,0:01:08.60,0:01:11.28,Default,,0,0,0,,lub Udai, wybaczcie\Nnam akcenty, miejscowi.
+Dialogue: 0,0:01:08.60,0:01:11.28,Default,,0,0,0,,lub Udaj, wybaczcie\Nnam akcenty, miejscowi.
 Dialogue: 0,0:01:11.40,0:01:15.96,Default,,0,0,0,,A dziś jesteśmy w miejscowości Horodyszcze,\Ngdzie stoimy na Górze Zamkowej,
 Dialogue: 0,0:01:16.08,0:01:20.72,Default,,0,0,0,,gdzie kiedyś, w XI i XII wieku,\Nznajdowało się starożytne rusińskie miasto
 Dialogue: 0,0:01:20.84,0:01:22.20,Default,,0,0,0,,które nazywało się Mnoga.
@@ -62,7 +62,7 @@ Dialogue: 0,0:02:22.36,0:02:26.60,Default,,0,0,0,,Wiem tylko, że wzięto tu do\
 Dialogue: 0,0:02:26.72,0:02:31.04,Default,,0,0,0,,I właśnie w tej wiosce\Nstacjonował niemiecki dowódca.
 Dialogue: 0,0:02:31.16,0:02:33.64,Default,,0,0,0,,W tym czasie dowodził on Drugą (*trzecią)\NDywizją Pancerną, chyba Keitel.
 Dialogue: 0,0:02:33.64,0:02:35.00,Default,,0,0,0,,Keitel jest bardziej znany z faktu
-Dialogue: 0,0:02:35.00,0:02:38.72,Default,,0,0,0,,że podpisał kapitulację\NTrzeciej Rzeszy w maju 1945r,
+Dialogue: 0,0:02:35.00,0:02:38.72,Default,,0,0,0,,że podpisał kapitulację\NTrzeciej Rzeszy w maju 1945 r.,
 Dialogue: 0,0:02:38.84,0:02:41.24,Default,,0,0,0,,po tym jak Hitler popełnił samobójstwo.
 Dialogue: 0,0:02:41.36,0:02:46.36,Default,,0,0,0,,Tutaj, pod tym wzgórzem zamkowym, ze\Nsztucznymi wałami, znajduje się taki dom.
 Dialogue: 0,0:02:46.48,0:02:49.04,Default,,0,0,0,,Według plotek, jak czytałem, a raczej,
@@ -100,7 +100,7 @@ Dialogue: 0,0:04:23.04,0:04:25.68,Default,,0,0,0,,przemówił z mównicy\Ntakimi
 Dialogue: 0,0:04:25.80,0:04:29.32,Default,,0,0,0,,«Niech żyje i jednoczą się Niemcy,\Nwieczna chwała.
 Dialogue: 0,0:04:29.44,0:04:30.80,Default,,0,0,0,,Nie popełniliśmy żadnych zbrodni.
 Dialogue: 0,0:04:30.92,0:04:34.48,Default,,0,0,0,,I idę do kilku milionów moich żołnierzy,\Nktórzy odeszli mężnie z bohaterstwem».
-Dialogue: 0,0:04:34.60,0:04:39.68,Default,,0,0,0,,I on sam, bez towarzystwa\Ntych katów czy wykonaców egzekucji
+Dialogue: 0,0:04:34.60,0:04:39.68,Default,,0,0,0,,I on sam, bez towarzystwa\Ntych katów czy wykonawców egzekucji
 Dialogue: 0,0:04:39.84,0:04:41.72,Default,,0,0,0,,wszedł na mównicę, gdzie\Nmiał zostać powieszony.
 Dialogue: 0,0:04:41.84,0:04:43.76,Default,,0,0,0,,I jeśli powieszenie tam trwało\Nkilka sekund lub do minuty,
 Dialogue: 0,0:04:43.76,0:04:45.88,Default,,0,0,0,,to stało się tak, że kiedy\Nsam wchodził na stryczek,
@@ -147,7 +147,7 @@ Dialogue: 0,0:06:30.76,0:06:32.16,Default,,0,0,0,,To nie kogucik, to...
 Dialogue: 0,0:06:32.28,0:06:35.76,Default,,0,0,0,,Muzeum jest "na drucie",\Nstary sklep, który właśnie...
 Dialogue: 0,0:06:35.88,0:06:36.64,Другий похідник,,0,0,0,,To już "tradycja" (tak zamykać drzwi).
 Dialogue: 0,0:06:36.76,0:06:39.68,Default,Інший похідник,0,0,0,,To nawet nie jest kij, tylko trawa.
-Dialogue: 0,0:06:39.84,0:06:41.48,Default,,0,0,0,,Kawałek grubej trawy (otwaranie drzwi).
+Dialogue: 0,0:06:39.84,0:06:41.48,Default,,0,0,0,,Kawałek grubej trawy (otwieranie drzwi).
 Dialogue: 0,0:06:41.48,0:06:45.64,Default,,0,0,0,,Wow... O mój Boże.
 Dialogue: 0,0:06:45.76,0:06:49.28,Другий похідник,,0,0,0,,Nie widziałem tych butelek po\Nwódce pszenicznej od kilkunastu lat.
 Dialogue: 0,0:06:49.44,0:06:51.40,Default,,0,0,0,,Zaciekawiła mnie ta rzecz, wyciągnę ją.
@@ -159,7 +159,7 @@ Dialogue: 0,0:07:04.64,0:07:08.76,Другий похідник,,0,0,0,,poniewa�
 Dialogue: 0,0:07:08.88,0:07:11.36,Default,,0,0,0,,Nie wiem, którą ulicą teraz pójdziemy,
 Dialogue: 0,0:07:11.48,0:07:14.64,Default,,0,0,0,,ale jedna z nich, zapytajmy\Nmiejscowych, nazywa się Gorszko-Liupiwka.
 Dialogue: 0,0:07:14.80,0:07:17.96,Default,,0,0,0,,Dlaczego właśnie Gorszko-Liupiwka? Ponieważ\Nkiedyś wytwarzano tu ceramikę (Gorszky).
-Dialogue: 0,0:07:17.96,0:07:20.88,Default,,0,0,0,,Do lat sześćdziesiątych XX wieku ta\Nwieś i Lisowa Slobidka, która jest obok,
+Dialogue: 0,0:07:17.96,0:07:20.88,Default,,0,0,0,,Do lat sześćdziesiątych XX wieku ta\Nwieś i Lisowa Słobidka, która jest obok,
 Dialogue: 0,0:07:20.88,0:07:23.12,Default,,0,0,0,,były bardzo znanymi\Nośrodkami garncarstwa.
 Dialogue: 0,0:07:23.24,0:07:25.00,Default,,0,0,0,,Nawiasem mówiąc, nie wiem,\Njaka była tego funkcja.
 Dialogue: 0,0:07:25.00,0:07:26.84,Default,,0,0,0,,Może zalewali to,\Nale gdzie wylewali?
@@ -257,7 +257,7 @@ Dialogue: 0,0:11:45.84,0:11:49.72,Бабуся2,,0,0,0,,Ot widzicie. Ota wojna\N
 Dialogue: 0,0:11:49.84,0:11:53.04,Бабуся2,,0,0,0,,Jednak obudziło mnie to w nocy.
 Dialogue: 0,0:11:54.16,0:11:57.92,Бабуся2,,0,0,0,,Spałam i usłyszałam grzechotanie\N(drona Szacheda), jak piła łańcuchowa,
 Dialogue: 0,0:11:58.04,0:12:00.24,Бабуся2,,0,0,0,,jak leciał gdzieś koło domu
-Dialogue: 0,0:12:00.36,0:12:06.80,Бабуся2,,0,0,0,,I na razie, narazie tak będzie\N, ale do 2030r,
+Dialogue: 0,0:12:00.36,0:12:06.80,Бабуся2,,0,0,0,,I na razie, narazie tak będzie\N, ale do 2030r.,
 Dialogue: 0,0:12:06.92,0:12:10.84,Бабуся2,,0,0,0,,dopóki nas wszystkich\Nnie zniszczą.
 Dialogue: 0,0:12:12.96,0:12:15.28,Бабуся2,,0,0,0,,Rosjanie, skąd oni to biorą?
 Dialogue: 0,0:12:15.40,0:12:17.16,Бабуся2,,0,0,0,,Naszego (...) zabili i nie ma.
@@ -291,10 +291,10 @@ Dialogue: 0,0:13:42.64,0:13:43.80,Default,,0,0,0,,Chata otwarta.
 Dialogue: 0,0:13:44.84,0:13:47.64,Default,,0,0,0,,Krótko mówiąc, region\NPołtawy jest skarbnicą.
 Dialogue: 0,0:13:47.76,0:13:50.24,Default,,0,0,0,,I nie wiem, jestem tu od godziny,
 Dialogue: 0,0:13:50.36,0:13:53.72,Default,,0,0,0,,i oczywiście chodzi o\Nto, że wielu klasyków
-Dialogue: 0,0:13:53.84,0:13:55.44,Default,,0,0,0,,różnych pisarzy, etnograrów zawsze..
+Dialogue: 0,0:13:53.84,0:13:55.44,Default,,0,0,0,,różnych pisarzy, etnografów zawsze..
 Dialogue: 0,0:13:55.56,0:13:56.32,Default,,0,0,0,,Nawet w dawnych czasach,
 Dialogue: 0,0:13:56.44,0:13:59.44,Default,,0,0,0,,nazywali Połtawę centrum\Nukraińskiej świadomości narodowej,
-Dialogue: 0,0:13:59.56,0:14:02.36,Default,,0,0,0,,tożsamości narodowej świadomości.\NNawet świadomóści.
+Dialogue: 0,0:13:59.56,0:14:02.36,Default,,0,0,0,,tożsamości narodowej świadomości.\NNawet świadomości.
 Dialogue: 0,0:14:02.48,0:14:04.92,Default,,0,0,0,,Jeśli była świadomość,\Nto był to Kijów lub Galicja,
 Dialogue: 0,0:14:05.04,0:14:06.12,Default,,0,0,0,,a kiedyś nawet Charków swego czasu.
 Dialogue: 0,0:14:06.12,0:14:08.08,Default,,0,0,0,,Ale jeśli chodzi o\Ntożsamość, to była to Połtawa.
@@ -467,7 +467,7 @@ Dialogue: 0,0:21:47.36,0:21:48.88,Біженець,,0,0,0,,Te pojemniki są wyko
 Dialogue: 0,0:21:49.00,0:21:51.20,Біженець,,0,0,0,,Więc jeśli zostaną wysadzone,
 Dialogue: 0,0:21:51.32,0:21:54.16,Біженець,,0,0,0,,Cóż, umieścili tam nawet\Njakąś siatkę z dronów.
 Dialogue: 0,0:21:54.28,0:21:58.28,Біженець,,0,0,0,,Takie zaczynają tam robić jakby tam\Nnasi mieli zbierać się tam coś bombardować.
-Dialogue: 0,0:21:58.40,0:22:00.28,Біженець,,0,0,0,,Nasi, nawet jeśli\Nmieli tam ich ostrzeliwaliwać.
+Dialogue: 0,0:21:58.40,0:22:00.28,Біженець,,0,0,0,,Nasi, nawet jeśli\Nmieli tam ich ostrzeliwać.
 Dialogue: 0,0:22:00.40,0:22:03.08,Біженець,,0,0,0,,Ale nasz nie jest taki jak\Nich (obejmujący obszary).
 Dialogue: 0,0:22:03.20,0:22:05.48,Біженець,,0,0,0,,Tylko strzelają punktowo (celnie).
 Dialogue: 0,0:22:05.60,0:22:07.44,Default,,0,0,0,,Co to za bestia? Co to jest?
@@ -482,8 +482,8 @@ Dialogue: 0,0:22:20.16,0:22:21.80,Default,,0,0,0,,Powiedzcie nam, sklepu\Ntu nie
 Dialogue: 0,0:22:21.84,0:22:22.20,Біженець,,0,0,0,,Jest.
 Dialogue: 0,0:22:22.32,0:22:22.68,Default,,0,0,0,,Jest?
 Dialogue: 0,0:22:22.80,0:22:23.52,Біженець,,0,0,0,,W (we wsi) Muky, tak.
-Dialogue: 0,0:22:23.64,0:22:25.28,Default,,0,0,0,,Och, w Postaw-Muky\Npytam o (wieś) Slobidkę.
-Dialogue: 0,0:22:25.28,0:22:27.64,Біженець,,0,0,0,,W Slobidce nie ma\Nsklepu. Ile dziennie przechodzicie?
+Dialogue: 0,0:22:23.64,0:22:25.28,Default,,0,0,0,,Och, w Postaw-Muky\Npytam o (wieś) Słobidkę.
+Dialogue: 0,0:22:25.28,0:22:27.64,Біженець,,0,0,0,,W Słobidce nie ma\Nsklepu. Ile dziennie przechodzicie?
 Dialogue: 0,0:22:27.76,0:22:30.60,Default,,0,0,0,,My kręcimy jeszcze filmy,\Nto teraz nie dużo.
 Dialogue: 0,0:22:30.72,0:22:32.72,Default,,0,0,0,,Kiedyś chodziliśmy 40\Nkilometrów i więcej.
 Dialogue: 0,0:22:32.84,0:22:34.56,Default,,0,0,0,,Teraz jest to średnio około 20 kilometrów,
@@ -491,23 +491,23 @@ Dialogue: 0,0:22:34.68,0:22:37.76,Default,,0,0,0,,ponieważ wciąż kręcimy fil
 Dialogue: 0,0:22:46.24,0:22:48.68,Default,,0,0,0,,Przyroda w regionie Połtawy\Njest niesamowita i przyjemna.
 Dialogue: 0,0:22:48.80,0:22:50.24,Default,,0,0,0,,Czterech z nas idzie\Nteraz na ekspedycji,
 Dialogue: 0,0:22:50.24,0:22:53.12,Default,,0,0,0,,I my naprawdę czerpiemy przyjemność,\Npomimo tego upału,
-Dialogue: 0,0:22:53.24,0:22:56.00,Default,,0,0,0,,bardzo wysoka duszczność, wilgoć,
+Dialogue: 0,0:22:53.24,0:22:56.00,Default,,0,0,0,,bardzo wysoka duszność, wilgoć,
 Dialogue: 0,0:22:56.12,0:22:58.28,Default,,0,0,0,,I strasznie dużo komarów.
 Dialogue: 0,0:22:58.40,0:23:00.92,Default,,0,0,0,,Jechaliśmy z Wołynia, myśląc, że przynajmniej\Nw regionie Połtawy nie będzie komarów,
 Dialogue: 0,0:23:00.92,0:23:04.52,Default,,0,0,0,,Ale to musiało być jakieś lato, że one\Nnas po prostu zjadały na każdym kroku.
-Dialogue: 0,0:23:04.64,0:23:09.24,Default,,0,0,0,,Zeszliśmy do drugiej wioski\Nna naszej trasie, Lisowej Slobidki.
+Dialogue: 0,0:23:04.64,0:23:09.24,Default,,0,0,0,,Zeszliśmy do drugiej wioski\Nna naszej trasie, Lisowej Słobidki.
 Dialogue: 0,0:23:09.36,0:23:13.08,Default,,0,0,0,,I tutaj znowu są te elementy\Nstaroświeckiej Ukrainy, chata.
 Dialogue: 0,0:23:13.20,0:23:14.88,Default,,0,0,0,,To nie jest chata,\Ntrudno określić,
 Dialogue: 0,0:23:14.92,0:23:17.48,Default,,0,0,0,,na pewno opuszczona,\Nznowu pod trzcinami.
 Dialogue: 0,0:23:17.60,0:23:19.28,Default,,0,0,0,,Albo chata, albo\Nstodoła, albo jakaś szopa.
-Dialogue: 0,0:23:19.32,0:23:23.56,Default,,0,0,0,,Ale tutaj są przy wejściu, przy\Nwejściu do tej Lisowej Slobidki.
+Dialogue: 0,0:23:19.32,0:23:23.56,Default,,0,0,0,,Ale tutaj są przy wejściu, przy\Nwejściu do tej Lisowej Słobidki.
 Dialogue: 0,0:23:23.68,0:23:27.20,Default,,0,0,0,,A wcześniej w (wiosce) Horodyszcze\Npowiedziano nam, że jest tu 15 mieszkańców.
 Dialogue: 0,0:23:27.32,0:23:32.16,Default,,0,0,0,,Człowiek, wymuszony przesiedleniec\Nz Energodaru, nie wie, ile osób tu jest.
 Dialogue: 0,0:23:32.28,0:23:34.24,Default,,0,0,0,,Więc zaraz zejdziemy niżej i zobaczymy.
 Dialogue: 0,0:23:34.36,0:23:37.04,Default,,0,0,0,,Jedyną rzeczą, która\Nprawdopodobnie daje jakiś
 Dialogue: 0,0:23:37.04,0:23:39.80,Default,,0,0,0,,związek ze współczesnym\Nświatem, jest asfaltowa droga.
 Dialogue: 0,0:23:39.92,0:23:42.48,Default,,0,0,0,,To bardzo dziwne, że wioska\Nlicząca 15 osób ma asfalt.
-Dialogue: 0,0:23:42.60,0:23:44.75,Default,,0,0,0,,W każdym razie, \Nidziemy wzdłuż tej Lisowej Slobidki,
+Dialogue: 0,0:23:42.60,0:23:44.75,Default,,0,0,0,,W każdym razie, \Nidziemy wzdłuż tej Lisowej Słobidki,
 Dialogue: 0,0:23:44.75,0:23:48.20,Default,,0,0,0,,a tu już dziesiątki\Nopuszczonych domów.
 Dialogue: 0,0:23:48.32,0:23:49.92,Default,,0,0,0,,Wioska jest praktycznie martwa.
 Dialogue: 0,0:23:50.04,0:23:52.36,Default,,0,0,0,,I właśnie rozmawialiśmy z\Nchłopakami, z kamerzystą:
@@ -637,7 +637,7 @@ Dialogue: 0,0:29:16.04,0:29:18.92,Default,,0,0,0,,Byłem na Wołyniu, szukałem\
 Dialogue: 0,0:29:19.04,0:29:20.96,Default,,0,0,0,,Na zasadzie:\N"nie znalazłeś tego, czego szukałeś".
 Dialogue: 0,0:29:21.08,0:29:24.16,Default,,0,0,0,,Ale tam znalazłem coś innego. A tutaj?
 Dialogue: 0,0:29:24.28,0:29:26.20,Default,,0,0,0,,Chociaż, oczywiście, to wszystko jest złe.
-Dialogue: 0,0:29:26.32,0:29:29.92,Default,,0,0,0,,I nie traktujcie naszej radości ze znajdowania \Nhaszczy jakby to było coś dobrego.
+Dialogue: 0,0:29:26.32,0:29:29.92,Default,,0,0,0,,I nie traktujcie naszej radości ze znajdowania chaszczy jakby to było coś dobrego.
 Dialogue: 0,0:29:30.04,0:29:33.00,Default,,0,0,0,,Nie ma tu wiele dobrego.\NTo zwyczajnie naturalne.
 Dialogue: 0,0:29:34.12,0:29:36.52,Другий похідник,,0,0,0,,Proces. Opisany i zaobserwowany proces
 Dialogue: 0,0:29:40.64,0:29:43.04,Default,,0,0,0,,Przy okazji, w kwestii tych trzcinowych\Ni słomianych dachach.
@@ -798,7 +798,7 @@ Dialogue: 0,0:38:46.44,0:38:48.20,Default,,0,0,0,,"Mąka" (boroshno) jest\Nbardz
 Dialogue: 0,0:38:48.32,0:38:52.28,Default,,0,0,0,,Pewnego razu miejscowy etnograf\Nz rejonu Chornuchyńskiego powiedział mi,
 Dialogue: 0,0:38:52.40,0:38:54.32,Default,,0,0,0,,że w tej wiosce jest wiele\Ndomów pod trzcinami.
 Dialogue: 0,0:38:54.44,0:38:55.20,Default,,0,0,0,,A teraz weszliśmy do wioski.
-Dialogue: 0,0:38:55.32,0:38:56.80,Default,,0,0,0,,Tam są jacyć ludzie na podwórku.\NJakaś młodzież.
+Dialogue: 0,0:38:55.32,0:38:56.80,Default,,0,0,0,,Tam są jacyś ludzie na podwórku.\NJakaś młodzież.
 Dialogue: 0,0:38:56.80,0:38:57.60,Default,,0,0,0,,smażą szaszłyki.
 Dialogue: 0,0:38:57.72,0:38:59.16,Default,,0,0,0,,Mają szopę pod trzciną.
 Dialogue: 0,0:38:59.16,0:39:00.80,Default,,0,0,0,,A tu inna stara szopa pod trzciną.
@@ -832,7 +832,7 @@ Dialogue: 0,0:40:18.12,0:40:19.60,Чоловік2,,0,0,0,,{\pos(514,743)}Nie no,
 Dialogue: 0,0:40:19.72,0:40:23.88,Чоловік1,,0,0,0,,{\pos(1315,550)}Ta święci się (studnia),\Nniedaleko Dubowe, słyszysz?
 Dialogue: 0,0:40:24.00,0:40:25.84,Чоловік1,,0,0,0,,{\pos(1315,550)}Więc?
 Dialogue: 0,0:40:25.96,0:40:27.36,Чоловік2,,0,0,0,,{\pos(514,743)}Tam nikogo nie ma.
-Dialogue: 0,0:40:27.48,0:40:33.08,Чоловік1,,0,0,0,,{\pos(1315,550)}I ta sama studnia, jest święcona,\Nwiem, nawet na świeto chodziłem.
+Dialogue: 0,0:40:27.48,0:40:33.08,Чоловік1,,0,0,0,,{\pos(1315,550)}I ta sama studnia, jest święcona,\Nwiem, nawet na święto chodziłem.
 Dialogue: 0,0:40:33.20,0:40:37.32,Чоловік1,,0,0,0,,{\pos(1315,550)}Muszą tam iść z wioski Bijowce,\Nżeby dostać się do tej studni, rozumiem.
 Dialogue: 0,0:40:37.44,0:40:42.28,Чоловік2,,0,0,0,,{\pos(514,743)}No, w każdym razie, że oni muszą tak iść,
 Dialogue: 0,0:40:42.40,0:40:45.08,Чоловік2,,0,0,0,,{\pos(514,743)}a ty poprowadzisz ludzi do drogi.
@@ -1130,7 +1130,7 @@ Dialogue: 0,0:52:10.88,0:52:13.24,Default,,0,0,0,,ponieważ, znowu,
 Dialogue: 0,0:52:13.36,0:52:16.84,Default,,0,0,0,,region Połtawy bije wszelkie rekordy\Ntakiego zaniedbania, zarośnięcia,
 Dialogue: 0,0:52:16.96,0:52:18.16,Default,,0,0,0,,i przebija Podole.
 Dialogue: 0,0:52:18.28,0:52:21.36,Default,,0,0,0,,Tylko patrzcie, idziemy przez las,\Nidziemy przez las od kilku kilometrów.
-Dialogue: 0,0:52:21.48,0:52:24.08,Default,,0,0,0,,Powiedziałem. Już! Nareszcie,\Nchaty pustyki zostały tam.
+Dialogue: 0,0:52:21.48,0:52:24.08,Default,,0,0,0,,Powiedziałem. Już! Nareszcie,\Nchaty puste zostały tam.
 Dialogue: 0,0:52:24.20,0:52:25.72,Default,,0,0,0,,Nie spodziewałem się,\Nże cokolwiek tu zobaczę.
 Dialogue: 0,0:52:25.72,0:52:28.68,Default,,0,0,0,,I patrzę - raz (chata), raz (chata),
 Dialogue: 0,0:52:28.80,0:52:31.24,Default,,0,0,0,,w środku lasu. Wow!
@@ -1138,7 +1138,7 @@ Dialogue: 0,0:52:31.36,0:52:32.80,Default,,0,0,0,,O jakim Czarnobylu tutaj mówi
 Dialogue: 0,0:52:32.92,0:52:35.84,Default,,0,0,0,,Uczeni Czarnobyla, ci, którzy\Nlubią odkrywać Czarnobyl,
 Dialogue: 0,0:52:35.96,0:52:38.68,Default,,0,0,0,,przyjeżdżajcie tutaj, wioska Postaw-Muki.
 Dialogue: 0,0:52:38.80,0:52:40.32,Default,,0,0,0,,Nigdy w życiu czegoś\Ntakiego nie widziałem.
-Dialogue: 0,0:52:40.32,0:52:45.04,Default,,0,0,0,,Na takim odludzium, wśród lasów.\NJak dawno te domy były opuszczone.
+Dialogue: 0,0:52:40.32,0:52:45.04,Default,,0,0,0,,Na takim odludziu, wśród lasów.\NJak dawno te domy były opuszczone.
 Dialogue: 0,0:52:50.56,0:52:53.88,Default,,0,0,0,,Nie wiem, to nierealne, aby przekazać\Nto widzom w jakimkolwiek filmie,
 Dialogue: 0,0:52:54.00,0:52:55.64,Default,,0,0,0,,Wam, widzom, co się tu teraz dzieje.
 Dialogue: 0,0:52:55.76,0:52:58.44,Default,,0,0,0,,To takie piekło, hardcore.
@@ -1198,7 +1198,7 @@ Dialogue: 0,0:55:17.44,0:55:17.72,Default,,0,0,0,,Wrzućcie.
 Dialogue: 0,0:55:17.84,0:55:21.00,Default,,0,0,0,,Po pięć hrywien za bycie\Nzjedzonym przez komary.
 Dialogue: 0,0:55:21.12,0:55:24.00,Default,,0,0,0,,I wspierajcie Siły Zbrojne Ukrainy. Pamiętajcie.
 Dialogue: 0,0:55:24.12,0:55:26.84,Default,,0,0,0,,Dzięki nim możemy wejść do\Ntego lasu i karmić te komary,
-Dialogue: 0,0:55:26.96,0:55:28.76,Default,,0,0,0,,bo one też chą jeść.
+Dialogue: 0,0:55:26.96,0:55:28.76,Default,,0,0,0,,bo one też chcą jeść.
 Dialogue: 0,0:55:28.88,0:55:29.72,Default,,0,0,0,,Cholera.
 Dialogue: 0,0:55:29.84,0:55:32.20,Default,,0,0,0,,Jeszcze cztery kilometry. Idziemy.
 Dialogue: 0,0:55:48.40,0:55:51.21,Default,,0,0,0,,Przez ten las, straszne komary.
@@ -1209,7 +1209,7 @@ Dialogue: 0,0:56:01.12,0:56:03.12,Default,,0,0,0,,a które są unikalne dla regi
 Dialogue: 0,0:56:03.24,0:56:05.24,Default,,0,0,0,,Nie ma czegoś takiego nigdzie indziej\Nna świecie, nigdzie nie ma w Ukrainie.
 Dialogue: 0,0:56:05.24,0:56:08.52,Default,,0,0,0,,Tylko w obwodzie połtawskim i\Ntylko w dawnym Łochwickim ziemstwie
 Dialogue: 0,0:56:08.64,0:56:10.76,Default,,0,0,0,,I tylko na lewym brzegu rzeki Udaj.
-Dialogue: 0,0:56:10.88,0:56:13.84,Default,,0,0,0,,Jeżli trafić na prawy (brzeg) niegdysiejszy Łubnieński rejon.
+Dialogue: 0,0:56:10.88,0:56:13.84,Default,,0,0,0,,Jeżeli trafić na prawy (brzeg) niegdysiejszy Łubnieński rejon.
 Dialogue: 0,0:56:13.96,0:56:15.32,Default,,0,0,0,,cóż, teraz to już wszystko Łubnieński rejon.
 Dialogue: 0,0:56:15.32,0:56:16.84,Default,,0,0,0,,nie ma tam już takich szkół.
 Dialogue: 0,0:56:16.96,0:56:19.24,Default,,0,0,0,,Są to tak zwane "szkoły Slastion".
@@ -1218,7 +1218,7 @@ Dialogue: 0,0:56:24.68,0:56:28.60,Другий похідник,,0,0,0,,Żeby by
 Dialogue: 0,0:56:28.72,0:56:34.28,Другий похідник,,0,0,0,,Został wydany dekret z Petersburga, że\Nmuszą zacząć pracować nad edukacją.
 Dialogue: 0,0:56:34.40,0:56:36.76,Default,,0,0,0,,W 1908 r. Uchwalono ustawę o\Nszkolnictwie ogólnokształcącym.
 Dialogue: 0,0:56:36.76,0:56:39.68,Default,,0,0,0,,Wcześniej w Imperium Rosyjskim\Nnie było nic na temat edukacji ogólnej.
-Dialogue: 0,0:56:39.80,0:56:41.36,Другий похідник,,0,0,0,,I potym
+Dialogue: 0,0:56:39.80,0:56:41.36,Другий похідник,,0,0,0,,I po tym
 Dialogue: 0,0:56:41.48,0:56:42.32,Default,,0,0,0,,Trzeba było budować szkoły.
 Dialogue: 0,0:56:42.44,0:56:46.76,Default,,0,0,0,,i zorganizowano konkurs na najlepsze\Nkonstrukcje architektoniczne do budowy szkół.
 Dialogue: 0,0:56:46.88,0:56:48.88,Default,,0,0,0,,Opanas Slastion, taka postać.
@@ -1230,7 +1230,7 @@ Dialogue: 0,0:57:02.96,0:57:05.88,Default,,0,0,0,,W Imperium Rosyjskiej skąd to
 Dialogue: 0,0:57:05.88,0:57:08.00,Default,,0,0,0,,W Imperium Rosyjskim również budowano według wzorów.
 Dialogue: 0,0:57:08.00,0:57:10.52,Default,,0,0,0,,Szkoły znajdowały się głównie\Nw starych domach popów.
 Dialogue: 0,0:57:10.64,0:57:14.20,Default,,0,0,0,,A jeśli budowano szkołę państwową,\Nto była to ona była szara jak kazamaty.
-Dialogue: 0,0:57:14.32,0:57:16.64,Default,,0,0,0,,A te szkoły, spórzcie. Tu już się starano.
+Dialogue: 0,0:57:14.32,0:57:16.64,Default,,0,0,0,,A te szkoły, spójrzcie. Tu już się starano.
 Dialogue: 0,0:57:16.76,0:57:17.76,Default,,0,0,0,,Robiono te wieże.
 Dialogue: 0,0:57:17.88,0:57:21.84,Другий похідник,,0,0,0,,Nie tylko zawracali sobie nimi głowę, ale\NOpanas Slastion wprowadził taką symbolikę,
 Dialogue: 0,0:57:21.96,0:57:26.88,Другий похідник,,0,0,0,,że te wieże miały służyć\Njako "świątynia nauki".
@@ -1251,11 +1251,11 @@ Dialogue: 0,0:58:08.88,0:58:11.40,Другий похідник,,0,0,0,,żeby ni
 Dialogue: 0,0:58:11.52,0:58:15.24,Другий похідник,,0,0,0,,Ale ich wizytówką była oczywiście\Nwyszywanka, wykonana z cegły.
 Dialogue: 0,0:58:15.36,0:58:17.64,Другий похідник,,0,0,0,,Nawiasem mówiąc, tutaj\Nnie widać to zbyt wyraźnie...
 Dialogue: 0,0:58:17.76,0:58:19.52,Default,,0,0,0,,Każda szkoła ma\Nswój niepowtarzalny ornament.
-Dialogue: 0,0:58:19.64,0:58:25.20,Default,,0,0,0,,A te ornamenty, te wyszywanki, są zaczerpnięte\Nod miejscowych, z gubarnii połtawskiej.
+Dialogue: 0,0:58:19.64,0:58:25.20,Default,,0,0,0,,A te ornamenty, te wyszywanki, są zaczerpnięte\Nod miejscowych, z guberni Połtawskiej.
 Dialogue: 0,0:58:25.32,0:58:27.32,Другий похідник,,0,0,0,,Nie ma dwóch jednakowych szkół. Zwyczajnie nie ma.
 Dialogue: 0,0:58:27.44,0:58:28.56,Default,,0,0,0,,Każda szkoła jest wyjątkowa.
 Dialogue: 0,0:58:28.56,0:58:31.32,Default,,0,0,0,,Na dzień dzisiejszy ocalałych,\Ntakich na rejestrze (ochrony zabytków).
-Dialogue: 0,0:58:31.44,0:58:36.48,Default,,0,0,0,,Nawiasem mówiąc, to Olga Herasymiuk zajęła się tym na poczatku lat dwutysięcznych.
+Dialogue: 0,0:58:31.44,0:58:36.48,Default,,0,0,0,,Nawiasem mówiąc, to Olga Herasymiuk zajęła się tym na początku lat dwutysięcznych.
 Dialogue: 0,0:58:36.60,0:58:38.96,Default,,0,0,0,,Ponieważ wcześniej stały tam,\Nzniszczone, i nikogo to nie obchodziło.
 Dialogue: 0,0:58:38.96,0:58:41.52,Default,,0,0,0,,Podniosła tę kwestię, ponieważ pochodzi z obwodu połtawskiego.
 Dialogue: 0,0:58:41.52,0:58:43.04,Default,,0,0,0,,I że te szkoły trzeba uratować.
@@ -1307,7 +1307,7 @@ Dialogue: 0,1:00:38.56,1:00:39.60,Default,,0,0,0,,I tyle. I tu one są.
 Dialogue: 0,1:00:39.60,1:00:41.60,Default,,0,0,0,,Cała mapa pokazuje, gdzie są te szkoły.
 Dialogue: 0,1:00:41.72,1:00:44.36,Другий похідник,,0,0,0,,Spójrz tutaj. Kiedy odrestaurowują te wyszywanki.
 Dialogue: 0,1:00:44.48,1:00:46.72,Другий похідник,,0,0,0,,to je widać bardzo ładnie widać o tutaj.
-Dialogue: 0,1:00:46.84,1:00:50.12,Другий похідник,,0,0,0,,A jeśli spojrzeć na to w ten\Nsposób, to na każdej jest innna.
+Dialogue: 0,1:00:46.84,1:00:50.12,Другий похідник,,0,0,0,,A jeśli spojrzeć na to w ten\Nsposób, to na każdej jest inna.
 Dialogue: 0,1:00:50.24,1:00:52.76,Другий похідник,,0,0,0,,Wiem, że dla Olgi Herasymiuk
 Dialogue: 0,1:00:52.88,1:00:56.76,Другий похідник,,0,0,0,,najważniejszą rzeczą było zachowanie tych szkół\Nprzynajmniej w takim stanie, w jakim się znajdują.
 Dialogue: 0,1:00:56.84,1:01:01.12,Другий похідник,,0,0,0,,Niech to będzie wiejski punkt medyczny, niech to będzie sklep.
@@ -1319,7 +1319,7 @@ Dialogue: 0,1:01:12.08,1:01:14.60,Другий похідник,,0,0,0,,Widzisz 
 Dialogue: 0,1:01:14.72,1:01:17.48,Другий похідник,,0,0,0,,Tak wyglądała, gdy przyjechałem po raz pierwszy.
 Dialogue: 0,1:01:17.60,1:01:21.28,Другий похідник,,0,0,0,,A to zdjęcie zostało zrobione, gdy\Nnie miała jeszcze statusu chronionej.
 Dialogue: 0,1:01:21.40,1:01:23.01,Другий похідник,,0,0,0,,To jest po tych wszystkich sporach
-Dialogue: 0,1:01:23.01,1:01:26.96,Другий похідник,,0,0,0,,kiedy okna zostały oszklone, wycięto wszelkie\Nostrożenie i wszystko inne.
+Dialogue: 0,1:01:23.01,1:01:26.96,Другий похідник,,0,0,0,,kiedy okna zostały oszklone, wycięto wszelkie\Nostrożenie (taki chwast) i wszystko inne.
 Dialogue: 0,1:01:27.08,1:01:28.68,Другий похідник,,0,0,0,,I szkoła stała się normalna.
 Dialogue: 0,1:01:28.80,1:01:34.00,Другий похідник,,0,0,0,,A w nocy ktoś przyszedł, wybił\Nkilka okien, powyrywał deski.
 Dialogue: 0,1:01:34.12,1:01:37.16,Другий похідник,,0,0,0,,Nic nie zabrali. Tak jakby protestowali.\NCo wy tu swoje porządki robicie.
@@ -1445,7 +1445,7 @@ Dialogue: 0,1:07:14.20,1:07:17.96,Default,,0,0,0,,gdzie mieszkał po studiach\Nn
 Dialogue: 0,1:07:18.08,1:07:22.04,Default,,0,0,0,,Ale dorastał tutaj, a w swojej pracy\Nzawsze wspominał o rodzinnej wiosce.
 Dialogue: 0,1:07:22.16,1:07:25.88,Default,,0,0,0,,Dlatego powiedziałem, że trzeba\Nbadać Ukrainę tak długo, póki się żyje.
 Dialogue: 0,1:07:26.00,1:07:27.00,Default,,0,0,0,,Tu my go popieramy.
-Dialogue: 0,1:07:27.12,1:07:29.64,Default,,0,0,0,,Tutaj to robimyi też mamy takie pragnienie.
+Dialogue: 0,1:07:27.12,1:07:29.64,Default,,0,0,0,,Tutaj to robimy też mamy takie pragnienie.
 Dialogue: 0,1:07:29.76,1:07:33.16,Default,,0,0,0,,Moim celem jest to że póki żyję to chcę badać Ukrainę.
 Dialogue: 0,1:07:33.28,1:07:35.96,Default,,0,0,0,,A te dwa dostępne wiersze,\Nktóre przeczytałem, jak rozumiecie,
 Dialogue: 0,1:07:36.08,1:07:39.04,Default,,0,0,0,,również są jego autorstwa.
@@ -1573,7 +1573,7 @@ Dialogue: 0,1:14:15.92,1:14:20.56,Default,,0,0,0,,która stoi teraz w obronie na
 Dialogue: 0,1:14:20.68,1:14:24.00,Default,,0,0,0,,i życzyć nam wszystkim szybkiego\Nzwycięstwa i jeszcze więcej podróży,
 Dialogue: 0,1:14:24.12,1:14:32.60,Default,,0,0,0,,odkrywania siebie, Ukrainy\Ni harmonii z wszechświatem.
 Dialogue: 0,1:14:32.72,1:15:17.48,Default,,0,0,0,,♫ Morwan - Topole [ukr. Тополі] ♫
-Dialogue: 0,1:15:38.40,1:15:42.28,Default,,0,0,0,,Autor pomysłu i prowadzący:\NVolodymyr Kokhan.
+Dialogue: 0,1:15:38.40,1:15:42.28,Default,,0,0,0,,Autor pomysłu i prowadzący:\NWołodymyr Kochan
 Dialogue: 0,1:15:42.40,1:15:46.32,Default,,0,0,0,,Kamerzyści: Andrij Balan\NMaksym Woskrekasenko
 Dialogue: 0,1:15:46.44,1:15:50.36,Default,,0,0,0,,Zdjęcia lotnicze: Maksym Woskrekasenko
 Dialogue: 0,1:15:50.48,1:15:54.36,Default,,0,0,0,,Montaż: Wołodymyr Kochan\NMaksym Woskrekasenko
