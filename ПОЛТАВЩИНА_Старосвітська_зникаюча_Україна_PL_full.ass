@@ -805,140 +805,141 @@ Dialogue: 0,0:38:59.16,0:39:00.80,Default,,0,0,0,,A tu inna stara szopa pod trzc
 Dialogue: 0,0:39:00.92,0:39:02.84,Default,,0,0,0,,Nie są opuszczone, jak\Nw poprzedniej wiosce,
 Dialogue: 0,0:39:02.96,0:39:04.72,Default,,0,0,0,,i tutaj funkcjonują, działają.
 Dialogue: 0,0:39:04.84,0:39:07.16,Default,,0,0,0,,Nadal jest tam bydło albo narzędzia stoją.
-Dialogue: 0,0:39:07.28,0:39:11.64,Default,,0,0,0,,Ale ta wioska jest wyraźnie\Nwiększa, nie wiem, dziesięć osób.
-Dialogue: 0,0:39:11.76,0:39:12.88,Default,,0,0,0,,Czuje się, że tu jest życie.
+Dialogue: 0,0:39:07.28,0:39:10.82,Default,,0,0,0,,Ale ta wioska jest wyraźnie\Nwiększa, nie wiem.
+Dialogue: 0,0:39:11.38,0:39:12.88,Default,,0,0,0,,O 10 osób więcej. \NCzuje się, że tu jest życie.
 Dialogue: 0,0:39:12.88,0:39:14.40,Default,,0,0,0,,Nie ma tu nieużytków,\Nprzynajmniej na głównej ulicy,
 Dialogue: 0,0:39:14.40,0:39:15.40,Default,,0,0,0,,którą właśnie szliśmy.
-Dialogue: 0,0:39:15.52,0:39:18.28,Default,,0,0,0,,Jest tu nawet kościół w starym budynku.
+Dialogue: 0,0:39:15.52,0:39:18.28,Default,,0,0,0,,Jest tu nawet cerkiew w starym budynku.
 Dialogue: 0,0:39:18.40,0:39:20.08,Default,,0,0,0,,W pewnym momencie\Npomyśleliśmy nawet,
 Dialogue: 0,0:39:20.20,0:39:23.68,Default,,0,0,0,,że to nie są pozostałości\Npo szkole Opanas Slastion.
-Dialogue: 0,0:39:23.80,0:39:25.80,Default,,0,0,0,,Ale nie uprzedzajmy\Nfaktów, bo tak nie jest.
+Dialogue: 0,0:39:23.80,0:39:25.80,Default,,0,0,0,,Ale nie uprzedzajmy\Nfaktów, bo to nie ona.
 Dialogue: 0,0:39:25.92,0:39:27.28,Default,,0,0,0,,I będą jeszcze dalej wzdłuż drogi,
 Dialogue: 0,0:39:27.40,0:39:29.12,Default,,0,0,0,,wtedy powiemy wam, co to za szkoły.
-Dialogue: 0,0:39:29.24,0:39:32.12,Default,,0,0,0,,Ale budynek pochodzi\Nz okresu cesarskiego.
-Dialogue: 0,0:39:32.24,0:39:35.88,Default,,0,0,0,,Te elementy Ukrainy Starego Świata\Nprześlizgują się na każdym kroku.
+Dialogue: 0,0:39:29.24,0:39:32.12,Default,,0,0,0,,Ale budynek pochodzi\Nz okresu carskiego.
+Dialogue: 0,0:39:32.24,0:39:35.88,Default,,0,0,0,,Te elementy staroświeckiej Ukrainy\Nprześlizgują się na każdym kroku.
 Dialogue: 0,0:39:36.00,0:39:37.40,Default,,0,0,0,,A my.
 Dialogue: 0,0:39:37.52,0:39:40.32,Default,,0,0,0,,I oto jesteśmy w tym upale, wyczerpani.
 Dialogue: 0,0:39:40.44,0:39:42.72,Default,,0,0,0,,Idziemy po kufel piwa.
 Dialogue: 0,0:39:42.84,0:39:44.52,Default,,0,0,0,,Jakie znasz synonimy słowa "galba"?
 Dialogue: 0,0:39:44.64,0:39:47.04,Default,,0,0,0,,Dzban, szklanka, kufel piwa.
 Dialogue: 0,0:39:47.16,0:39:48.72,Default,,0,0,0,,No dalej, powiedz mi więcej.
-Dialogue: 0,0:39:48.84,0:39:49.72,Другий похідник,,0,0,0,,"Pint" nie jest nasze.
+Dialogue: 0,0:39:48.84,0:39:49.72,Другий похідник,,0,0,0,,"Pint" nie po naszemu.
 Dialogue: 0,0:39:49.84,0:39:51.40,Default,,0,0,0,,Pinta.
-Dialogue: 0,0:40:12.52,0:40:15.52,Чоловік1,,0,0,0,,Między (wioskami) Haleptsi i Biivtsi.
+Dialogue: 0,0:40:12.52,0:40:15.52,Чоловік1,,0,0,0,,Między (wioskami) Halepci i Bijowcami.
 Dialogue: 0,0:40:15.64,0:40:16.64,Чоловік1,,0,0,0,,To studnia.
-Dialogue: 0,0:40:16.76,0:40:18.00,Чоловік1,,0,0,0,,Oni żyją na tej studni.
+Dialogue: 0,0:40:16.76,0:40:18.00,Чоловік1,,0,0,0,,Oni na tę studnię.
 Dialogue: 0,0:40:18.12,0:40:19.60,Чоловік2,,0,0,0,,{\pos(514,743)}Nie no, Dima.
-Dialogue: 0,0:40:19.72,0:40:23.88,Чоловік1,,0,0,0,,{\pos(1315,550)}Ten jest święty,\Nniedaleko Dubove, słyszysz?
+Dialogue: 0,0:40:19.72,0:40:23.88,Чоловік1,,0,0,0,,{\pos(1315,550)}Ta święci się (studnia),\Nniedaleko Dubowe, słyszysz?
 Dialogue: 0,0:40:24.00,0:40:25.84,Чоловік1,,0,0,0,,{\pos(1315,550)}Więc?
 Dialogue: 0,0:40:25.96,0:40:27.36,Чоловік2,,0,0,0,,{\pos(514,743)}Tam nikogo nie ma.
-Dialogue: 0,0:40:27.48,0:40:33.08,Чоловік1,,0,0,0,,{\pos(1315,550)}Cóż, to ta sama studnia, która jest błogosławiona,\Nwiem, to nawet święto, a nie przedstawienie.
-Dialogue: 0,0:40:33.20,0:40:37.32,Чоловік1,,0,0,0,,{\pos(1315,550)}Muszą tam jechać z wioski Biyivtsi,\Nżeby dostać się do tej studni, rozumiem.
-Dialogue: 0,0:40:37.44,0:40:42.28,Чоловік2,,0,0,0,,{\pos(514,743)}No, w każdym razie, że ja muszę tak iść,
+Dialogue: 0,0:40:27.48,0:40:33.08,Чоловік1,,0,0,0,,{\pos(1315,550)}I ta sama studnia, jest święcona,\Nwiem, nawet na świeto chodziłem.
+Dialogue: 0,0:40:33.20,0:40:37.32,Чоловік1,,0,0,0,,{\pos(1315,550)}Muszą tam iść z wioski Bijowce,\Nżeby dostać się do tej studni, rozumiem.
+Dialogue: 0,0:40:37.44,0:40:42.28,Чоловік2,,0,0,0,,{\pos(514,743)}No, w każdym razie, że oni muszą tak iść,
 Dialogue: 0,0:40:42.40,0:40:45.08,Чоловік2,,0,0,0,,{\pos(514,743)}a ty poprowadzisz ludzi do drogi.
 Dialogue: 0,0:40:45.20,0:40:46.48,Чоловік1,,0,0,0,,{\pos(1315,550)}Dokąd?
 Dialogue: 0,0:40:46.60,0:40:48.12,Чоловік2,,0,0,0,,{\pos(514,743)}Do studni.
 Dialogue: 0,0:40:48.24,0:40:50.96,Чоловік1,,0,0,0,,{\pos(1315,550)}A co ze studnią? Są w Bijowcach.
 Dialogue: 0,0:40:52.28,0:40:54.04,Чоловік1,,0,0,0,,{\pos(1315,550)}Wiesz, gdzie są Bijowce?
 Dialogue: 0,0:40:54.16,0:40:54.60,Чоловік2,,0,0,0,,{\pos(514,743)}Nie, nie wiem.
-Dialogue: 0,0:40:54.72,0:40:56.76,Чоловік1,,0,0,0,,{\pos(1315,550)}To tutaj.
-Dialogue: 0,0:40:56.88,0:41:00.00,Чоловік1,,0,0,0,,{\pos(1315,550)}Trzeba iść tą samą drogą.
-Dialogue: 0,0:41:00.12,0:41:01.60,Чоловік1,,0,0,0,,{\pos(536,737)}To je urodziny.
+Dialogue: 0,0:40:54.72,0:40:56.76,Чоловік1,,0,0,0,,{\pos(1315,550)}O tutaj.
+Dialogue: 0,0:40:56.88,0:41:00.00,Чоловік1,,0,0,0,,{\pos(1315,550)}Oni przecież mają tam pieszo iść.
+Dialogue: 0,0:41:00.12,0:41:01.60,Чоловік1,,0,0,0,,{\pos(536,737)}Urodziny.
 Dialogue: 0,0:41:01.72,0:41:04.08,Курсив,,0,0,0,,Wiem o tym.
-Dialogue: 0,0:41:04.20,0:41:05.96,Default,,0,0,0,,Twoje urodziny?
+Dialogue: 0,0:41:04.20,0:41:05.96,Default,,0,0,0,,U was urodziny?
 Dialogue: 0,0:41:06.08,0:41:08.32,Чоловік1,,0,0,0,,{\pos(536,737)}Ten, który stąd odszedł.
 Dialogue: 0,0:41:09.40,0:41:10.40,Чоловік1,,0,0,0,,{\pos(536,737)}Pogratulowałeś mu?
 Dialogue: 0,0:41:10.44,0:41:12.32,Чоловік3,,0,0,0,,{\pos(1410,590)}Czy kiedykolwiek mi gratulował?
 Dialogue: 0,0:41:12.44,0:41:14.16,Чоловік1,,0,0,0,,{\pos(536,737)}Pogratulowałem mu o piątej.
-Dialogue: 0,0:41:14.28,0:41:17.04,Чоловік3,,0,0,0,,{\pos(1410,590)}Widziałam, że bardzo\Nsprytnie mu pogratulowałaś.
-Dialogue: 0,0:41:17.16,0:41:18.24,Чоловік1,,0,0,0,,{\pos(536,737)}Siedzieliśmy w moim pokoju.
-Dialogue: 0,0:41:18.24,0:41:19.60,Чоловік3,,0,0,0,,{\pos(1410,590)}Krzycząc.
-Dialogue: 0,0:41:20.76,0:41:22.76,Чоловік1,,0,0,0,,{\pos(536,737)}I co z tego, jestem niedaleko...
+Dialogue: 0,0:41:14.28,0:41:17.04,Чоловік3,,0,0,0,,{\pos(1410,590)}Widziałem, że bardzo\Nsprytnie mu pogratulowałeś.
+Dialogue: 0,0:41:17.16,0:41:18.24,Чоловік1,,0,0,0,,{\pos(536,737)}Siedzieliśmy u mnie.
+Dialogue: 0,0:41:18.24,0:41:19.60,Чоловік3,,0,0,0,,{\pos(1410,590)}Krzyczeliście.
+Dialogue: 0,0:41:20.76,0:41:22.76,Чоловік1,,0,0,0,,{\pos(536,737)}I co z tego. Jak krzyczeli?\NTu niedaleko.
 Dialogue: 0,0:41:22.88,0:41:23.88,Чоловік3,,0,0,0,,{\pos(1410,590)}Jesteś na swoim podwórku.
 Dialogue: 0,0:41:24.00,0:41:25.48,Чоловік1,,0,0,0,,{\pos(536,737)}Jestem na swoim podwórku.
 Dialogue: 0,0:41:25.60,0:41:27.56,Чоловік1,,0,0,0,,{\pos(536,737)}I mieliśmy miłą,\Ncywilizowaną pogawędkę.
 Dialogue: 0,0:41:27.68,0:41:29.48,Чоловік1,,0,0,0,,{\pos(536,737)}Wypiliśmy cztery butelki.
-Dialogue: 0,0:41:30.64,0:41:31.68,Default,,0,0,0,,Wódkę?
+Dialogue: 0,0:41:30.64,0:41:31.68,Default,,0,0,0,,Wódki?
 Dialogue: 0,0:41:31.80,0:41:32.92,Чоловік1,,0,0,0,,{\pos(536,737)}Kupioną wódkę.
-Dialogue: 0,0:41:33.04,0:41:35.52,Чоловік1,,0,0,0,,{\pos(536,737)}Nie piliśmy bimbru, kupiliśmy go.
-Dialogue: 0,0:41:35.64,0:41:38.32,Default,,0,0,0,,Ile innych osób robi miotły\Noprócz Twojego przyjaciela?
-Dialogue: 0,0:41:38.44,0:41:39.64,Default,,0,0,0,,Czy jest ich wielu w wiosce?
-Dialogue: 0,0:41:39.76,0:41:41.04,Чоловік1,,0,0,0,,{\pos(536,737)}Jest ich wielu.
-Dialogue: 0,0:41:41.16,0:41:42.80,Чоловік1,,0,0,0,,{\pos(536,737)}Przygotowano wiele mioteł.
-Dialogue: 0,0:41:42.92,0:41:44.08,Чоловік3,,0,0,0,,{\pos(1410,590)}Czy oni ich potrzebują?
-Dialogue: 0,0:41:44.20,0:41:45.76,Default,,0,0,0,,Czy ty też tkasz?
-Dialogue: 0,0:41:45.92,0:41:47.80,Чоловік3,,0,0,0,,{\pos(1410,590)}Nie tkamy, tylko robimy na drutach.
-Dialogue: 0,0:41:47.92,0:41:49.80,Default,,0,0,0,,Och, dziergacie. Użyłem złego słowa.
+Dialogue: 0,0:41:33.04,0:41:35.52,Чоловік1,,0,0,0,,{\pos(536,737)}Nie piliśmy bimbru, kupiliśmy.
+Dialogue: 0,0:41:35.64,0:41:38.32,Default,,0,0,0,,Ile innych osób robi miotły\Noprócz waszego kolegi?
+Dialogue: 0,0:41:38.44,0:41:39.64,Default,,0,0,0,,Czy jest ich wiele w wiosce?
+Dialogue: 0,0:41:39.76,0:41:41.04,Чоловік1,,0,0,0,,{\pos(536,737)}Nie dużo.
+Dialogue: 0,0:41:41.16,0:41:42.80,Чоловік1,,0,0,0,,{\pos(536,737)}Miotły mało kto.
+Dialogue: 0,0:41:42.92,0:41:44.08,Чоловік3,,0,0,0,,{\pos(1410,590)}A one są wam potrzebne?
+Dialogue: 0,0:41:44.20,0:41:45.76,Default,,0,0,0,,Wy też pleciecie?
+Dialogue: 0,0:41:45.92,0:41:47.80,Чоловік3,,0,0,0,,{\pos(1410,590)}Nie pleciemy. My wiążemy.
+Dialogue: 0,0:41:47.92,0:41:49.80,Default,,0,0,0,,Och, wiążecie. Źle się wysłowiłem.
 Dialogue: 0,0:41:49.92,0:41:52.20,Чоловік1,,0,0,0,,{\pos(536,737)}Tak, tak.
 Dialogue: 0,0:41:52.32,0:41:56.20,Чоловік1,,0,0,0,,{\pos(536,737)}Chce wiedzieć, jak to się robi.
-Dialogue: 0,0:41:56.32,0:41:59.56,Чоловік3,,0,0,0,,{\pos(1410,590)}Wow! We wrześniu\Nprzyjdź i zobacz proces.
-Dialogue: 0,0:41:59.68,0:42:01.36,Чоловік1,,0,0,0,,{\pos(536,737)}Słuchaj, mówię ci.
-Dialogue: 0,0:42:01.52,0:42:04.68,Чоловік1,,0,0,0,,{\pos(536,737)}Chcę, żeby tak dorastał.
+Dialogue: 0,0:41:56.32,0:41:59.56,Чоловік3,,0,0,0,,{\pos(1410,590)}Wow! We wrześniu\Nprzyjdźcie i zobaczycie proces.
+Dialogue: 0,0:41:59.68,0:42:01.36,Чоловік1,,0,0,0,,{\pos(536,737)}Słuchaj, mówię wam.
+Dialogue: 0,0:42:01.52,0:42:04.68,Чоловік1,,0,0,0,,{\pos(536,737)}Trzeba, żeby to wyrosło o takie.
 Dialogue: 0,0:42:04.80,0:42:07.48,Чоловік3,,0,0,0,,{\pos(1410,590)}Wyżej niż ta rudera.
-Dialogue: 0,0:42:07.60,0:42:12.40,Чоловік1,,0,0,0,,{\pos(536,737)}A potem, jeśli nie będzie\Nwiatru, będzie stał pionowo,
-Dialogue: 0,0:42:12.52,0:42:16.20,Чоловік1,,0,0,0,,{\pos(536,737)}Spróbuję go skosić, gdy będzie na dole.
-Dialogue: 0,0:42:16.32,0:42:19.72,Чоловік1,,0,0,0,,{\pos(536,737)}Mówię tylko, co za dużo pracy.
-Dialogue: 0,0:42:19.84,0:42:21.44,Чоловік1,,0,0,0,,{\pos(536,737)}Przez ciebie tracę zmysły.
+Dialogue: 0,0:42:07.60,0:42:12.40,Чоловік1,,0,0,0,,{\pos(536,737)}A potem, jeśli wiatru nie było,\Nto dobrze jak stoi.
+Dialogue: 0,0:42:12.52,0:42:16.20,Чоловік1,,0,0,0,,{\pos(536,737)}A jak położy się,\Nto spróbuj to skosić.
+Dialogue: 0,0:42:16.32,0:42:19.72,Чоловік1,,0,0,0,,{\pos(536,737)}Ja zwyczajnie mówię,\Njaki to wysiłek.
+Dialogue: 0,0:42:19.84,0:42:21.44,Чоловік1,,0,0,0,,{\pos(536,737)}Ty mnie rozpraszasz.
 Dialogue: 0,0:42:21.56,0:42:23.92,Чоловік3,,0,0,0,,{\pos(1410,590)}A potem spróbuj to zebrać.
 Dialogue: 0,0:42:24.04,0:42:26.52,Чоловік3,,0,0,0,,{\pos(1410,590)}Podnosisz to i ścinasz.
-Dialogue: 0,0:42:27.76,0:42:31.60,Чоловік1,,0,0,0,,{\pos(536,737)}Wiedzą, jak wykonać\Ncykl, jak im powiedziano.
-Dialogue: 0,0:42:33.28,0:42:35.32,Чоловік1,,0,0,0,,{\pos(536,737)}Potrzebują tego [cyklu].
-Dialogue: 0,0:42:35.44,0:42:36.60,Чоловік1,,0,0,0,,{\pos(536,737)}Pierdol się...
-Dialogue: 0,0:42:36.72,0:42:38.48,Чоловік3,,0,0,0,,{\pos(1410,590)}Mówię ci.
+Dialogue: 0,0:42:27.76,0:42:31.60,Чоловік1,,0,0,0,,{\pos(536,737)}Dla nich (ciekawy)\Nsam cykl, jak to się robi. Opowiadam.
+Dialogue: 0,0:42:31.63,0:42:35.32,Чоловік1,,0,0,0,,{\pos(536,737)}Im ten cykl potrzebny Lonia.
+Dialogue: 0,0:42:35.44,0:42:36.60,Чоловік1,,0,0,0,,{\pos(536,737)}Idź ty. Co ty.
+Dialogue: 0,0:42:36.72,0:42:38.48,Чоловік3,,0,0,0,,{\pos(1410,590)}Powiedziałem
 Dialogue: 0,0:42:38.60,0:42:40.76,Чоловік1,,0,0,0,,{\pos(536,737)}Mówię chłopakom, jak jest.
-Dialogue: 0,0:42:40.88,0:42:42.96,Чоловік3,,0,0,0,,{\pos(1410,590)}Nic ci nie powiem, mam tego dość.
-Dialogue: 0,0:42:43.08,0:42:44.80,Чоловік1,,0,0,0,,{\pos(536,737)}Vovyk, jesteś najstarszy?
+Dialogue: 0,0:42:40.88,0:42:42.96,Чоловік3,,0,0,0,,{\pos(1410,590)}Nic ci nie mówię, mam dość.
+Dialogue: 0,0:42:43.08,0:42:44.80,Чоловік1,,0,0,0,,{\pos(536,737)}Wowa, jesteś najstarszy?
 Dialogue: 0,0:42:44.92,0:42:45.72,Default,,0,0,0,,Tak, jestem.
 Dialogue: 0,0:42:45.84,0:42:47.96,Чоловік1,,0,0,0,,{\pos(536,737)}Więc napiję się z tobą.
-Dialogue: 0,0:42:48.12,0:42:48.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Z Kijowa.
+Dialogue: 0,0:42:48.12,0:42:48.96,Чоловік1,,0,0,0,,{\pos(1223,709)}On z Kijowa.
 Dialogue: 0,0:42:49.08,0:42:50.72,Default,,0,0,0,,Robimy filmy.
-Dialogue: 0,0:42:50.84,0:42:51.88,Default,,0,0,0,,A ja jestem Wołodia.
+Dialogue: 0,0:42:50.84,0:42:51.88,Default,,0,0,0,,Ja jestem Wołodia.
 Dialogue: 0,0:42:52.00,0:42:53.08,Чоловік4,,0,0,0,,{\pos(876,771)}Mój imiennik.
-Dialogue: 0,0:42:55.40,0:42:57.04,Чоловік1,,0,0,0,,{\pos(1223,709)}Co w tym złego?
-Dialogue: 0,0:42:57.16,0:42:58.40,Чоловік1,,0,0,0,,{\pos(1223,709)}Jesteśmy dobrymi przyjaciółmi.
+Dialogue: 0,0:42:55.46,0:42:57.04,Чоловік1,,0,0,0,,{\pos(1223,709)}No cóż.
+Dialogue: 0,0:42:57.16,0:42:58.40,Чоловік1,,0,0,0,,{\pos(1223,709)}Mili przyjaciele.
 Dialogue: 0,0:42:58.52,0:43:00.52,Чоловік1,,0,0,0,,{\pos(1223,709)}Jestem gadułą.
-Dialogue: 0,0:43:01.76,0:43:03.88,Курсив,,0,0,0,,Musisz dbać o porządek.
-Dialogue: 0,0:43:04.04,0:43:05.24,Чоловік1,,0,0,0,,{\pos(1223,709)}Natasha, ja posprzątam.
+Dialogue: 0,0:43:01.76,0:43:03.88,Курсив,,0,0,0,,Tak. Pilnujcie tu mi porządku.
+Dialogue: 0,0:43:04.04,0:43:05.24,Чоловік1,,0,0,0,,{\pos(1223,709)}Natasza, ja posprzątam.
 Dialogue: 0,0:43:06.32,0:43:07.72,Чоловік1,,0,0,0,,{\pos(1223,709)}Wszystko będzie czyste.
 Dialogue: 0,0:43:07.88,0:43:09.16,Чоловік1,,0,0,0,,{\pos(1223,709)}Proszę bardzo.
 Dialogue: 0,0:43:09.28,0:43:10.60,Чоловік1,,0,0,0,,{\pos(1223,709)}Dziękuję.
-Dialogue: 0,0:43:11.96,0:43:14.00,Чоловік1,,0,0,0,,{\pos(1223,709)}Vovik.
-Dialogue: 0,0:43:14.12,0:43:15.00,Чоловік1,,0,0,0,,{\pos(1223,709)}Maxim.
-Dialogue: 0,0:43:15.12,0:43:15.68,Третій похідник,,0,0,0,,I Andrey.
-Dialogue: 0,0:43:15.80,0:43:17.12,Чоловік1,,0,0,0,,{\pos(1223,709)}Andrey.
-Dialogue: 0,0:43:17.24,0:43:18.40,Другий похідник,,0,0,0,,Sergi.
-Dialogue: 0,0:43:21.32,0:43:22.36,Чоловік1,,0,0,0,,{\pos(1223,709)}Dobra robota.
+Dialogue: 0,0:43:11.96,0:43:14.00,Чоловік1,,0,0,0,,{\pos(1223,709)}Wołodiu, Andrzeju
+Dialogue: 0,0:43:14.12,0:43:15.00,Чоловік1,,0,0,0,,{\pos(1223,709)}Maksim
+Dialogue: 0,0:43:15.12,0:43:15.68,Третій похідник,,0,0,0,,I Andrij
+Dialogue: 0,0:43:15.80,0:43:17.12,Чоловік1,,0,0,0,,{\pos(1223,709)}Andrij o widzisz.
+Dialogue: 0,0:43:17.24,0:43:18.40,Другий похідник,,0,0,0,,Sergij
+Dialogue: 0,0:43:19.91,0:43:21.07,Другий похідник,,0,0,0,,Z piwem, ale jest jak jest.
+Dialogue: 0,0:43:21.12,0:43:22.36,Чоловік1,,0,0,0,,{\pos(1223,709)}Zuch!
 Dialogue: 0,0:43:22.48,0:43:24.12,Чоловік1,,0,0,0,,{\pos(1223,709)}Trzymaj się.
 Dialogue: 0,0:43:24.28,0:43:25.00,Чоловік1,,0,0,0,,{\pos(1223,709)}I ja.
 Dialogue: 0,0:43:25.12,0:43:27.36,Чоловік1,,0,0,0,,{\pos(1223,709)}W dzieciństwie w ogóle nie paliłem.
 Dialogue: 0,0:43:27.48,0:43:28.76,Default,,0,0,0,,Chcemy gdzieś spędzić noc,
-Dialogue: 0,0:43:28.88,0:43:29.96,Default,,0,0,0,,a potem pojechać do (wioski Pisky-Udai),
-Dialogue: 0,0:43:29.96,0:43:32.60,Default,,0,0,0,,a potem z Pisky do (wioski) Horobia?
+Dialogue: 0,0:43:28.88,0:43:29.96,Default,,0,0,0,,a potem pójść na Pisky (wioski Pisky-Udaj),
+Dialogue: 0,0:43:29.96,0:43:32.60,Default,,0,0,0,,a potem z Pisków do (wioski) Horobiju przepłynąć.
 Dialogue: 0,0:43:32.72,0:43:34.00,Чоловік1,,0,0,0,,{\pos(1223,709)}Jeśli zapukam,
-Dialogue: 0,0:43:34.12,0:43:37.20,Чоловік1,,0,0,0,,{\pos(1223,709)}Pukam do dobrych rzeczy.
-Dialogue: 0,0:43:37.32,0:43:38.04,Чоловік1,,0,0,0,,{\pos(1223,709)}To prawda.
-Dialogue: 0,0:43:38.16,0:43:39.88,Чоловік1,,0,0,0,,{\pos(1223,709)}Serhii, powiedz mi.
+Dialogue: 0,0:43:34.12,0:43:37.20,Чоловік1,,0,0,0,,{\pos(1223,709)}To pukam na szczęście.
+Dialogue: 0,0:43:37.32,0:43:38.04,Чоловік1,,0,0,0,,{\pos(1223,709)}No tak.
+Dialogue: 0,0:43:38.16,0:43:39.88,Чоловік1,,0,0,0,,{\pos(1223,709)}Serhij, powiedz no.
 Dialogue: 0,0:43:40.00,0:43:42.72,Чоловік1,,0,0,0,,{\pos(1223,709)}Tak to tutaj robimy.
 Dialogue: 0,0:43:42.84,0:43:44.60,Чоловік4,,0,0,0,,{\pos(876,771)}Wszystko jest tu filmowane.
 Dialogue: 0,0:43:44.72,0:43:45.80,Чоловік1,,0,0,0,,{\pos(1223,709)}Ciebie nie sfilmujemy,
-Dialogue: 0,0:43:45.92,0:43:48.48,Чоловік1,,0,0,0,,{\pos(1223,709)}bo będziesz zły w filmie.
-Dialogue: 0,0:43:49.96,0:43:52.08,Чоловік4,,0,0,0,,{\pos(876,771)}Dokąd idziesz?
-Dialogue: 0,0:43:52.20,0:43:55.08,Чоловік1,,0,0,0,,{\pos(1223,709)}Powiedzieli ci, gdzie masz jechać:
-Dialogue: 0,0:43:55.20,0:43:58.64,Чоловік1,,0,0,0,,{\pos(1223,709)}Pisky-Udai, Horobiy.
-Dialogue: 0,0:43:58.76,0:44:00.40,Чоловік4,,0,0,0,,{\pos(876,771)}O Boże, nie filmuj.
+Dialogue: 0,0:43:45.92,0:43:48.48,Чоловік1,,0,0,0,,{\pos(1223,709)}bo będziesz brzydki w kadrze.
+Dialogue: 0,0:43:49.96,0:43:52.08,Чоловік4,,0,0,0,,{\pos(876,771)}A wy którędy dalej?
+Dialogue: 0,0:43:52.20,0:43:55.08,Чоловік1,,0,0,0,,{\pos(1223,709)}Powiedzieli ci kur*a, gdzie.
+Dialogue: 0,0:43:55.20,0:43:58.64,Чоловік1,,0,0,0,,{\pos(1223,709)}Pisky-Udajskie, Horobij.
+Dialogue: 0,0:43:58.76,0:44:00.40,Чоловік4,,0,0,0,,{\pos(876,771)}O Boże, nie filmujcie.
 Dialogue: 0,0:44:00.52,0:44:01.32,Чоловік4,,0,0,0,,{\pos(876,771)}Oni wszystko filmują.
 Dialogue: 0,0:44:01.44,0:44:02.76,Чоловік1,,0,0,0,,{\pos(1223,709)}Nikt cię nie filmował.
 Dialogue: 0,0:44:02.88,0:44:04.60,Чоловік1,,0,0,0,,{\pos(1223,709)}Nie pasujesz do kadru.
 Dialogue: 0,0:44:04.72,0:44:06.28,Чоловік1,,0,0,0,,{\pos(1223,709)}Kto cię filmuje?
-Dialogue: 0,0:44:06.40,0:44:08.92,Чоловік1,,0,0,0,,{\pos(1223,709)}Jest hałas lodów,
-Dialogue: 0,0:44:09.04,0:44:11.56,Чоловік1,,0,0,0,,{\pos(1223,709)}a ty już jesteś filmowany.
+Dialogue: 0,0:44:06.40,0:44:08.92,Чоловік1,,0,0,0,,{\pos(1223,709)}Ten o lodami hałasował.
+Dialogue: 0,0:44:09.04,0:44:11.56,Чоловік1,,0,0,0,,{\pos(1223,709)}a kto by filmował cię.
 Dialogue: 0,0:44:11.68,0:44:13.08,Чоловік1,,0,0,0,,{\pos(1223,709)}On się boi, żeby go nie sfilmowano.
-Dialogue: 0,0:44:15.20,0:44:17.76,Default,,0,0,0,,Wasza wioska oficjalnie\Nnazywa się "Postav-Muka".
-Dialogue: 0,0:44:17.88,0:44:23.32,Default,,0,0,0,,Ale ty mówisz "Postav-Muky", prawda?
-Dialogue: 0,0:44:25.52,0:44:26.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Postav-Muku.
-Dialogue: 0,0:44:27.08,0:44:30.16,Чоловік1,,0,0,0,,{\pos(1223,709)}Opowiem ci biografię,\Njeśli jesteś zainteresowany.
-Dialogue: 0,0:44:30.28,0:44:32.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Dziadek zabrał w góry.
-Dialogue: 0,0:44:34.40,0:44:36.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Koń ich nie udźwignął.
+Dialogue: 0,0:44:15.20,0:44:17.76,Default,,0,0,0,,Wasza wioska oficjalnie\Nnazywa się "Postaw-Muka".
+Dialogue: 0,0:44:17.88,0:44:23.32,Default,,0,0,0,,Ale ty mówisz "Postaw-Muky", prawda?
+Dialogue: 0,0:44:25.52,0:44:26.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Postaw-Muku.
+Dialogue: 0,0:44:27.08,0:44:30.16,Чоловік1,,0,0,0,,{\pos(1223,709)}Opowiem wam biografię [etymologię],\Njeśli jesteś zainteresowany.
+Dialogue: 0,0:44:30.28,0:44:32.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Dziadek wiózł na górę.
+Dialogue: 0,0:44:34.40,0:44:36.96,Чоловік1,,0,0,0,,{\pos(1223,709)}Koń nie miał siły.
 Dialogue: 0,0:44:37.08,0:44:37.76,Чоловік1,,0,0,0,,{\pos(1223,709)}Wszystkich.
 Dialogue: 0,0:44:37.88,0:44:39.84,Чоловік1,,0,0,0,,{\pos(1223,709)}Mielił mąkę na chleb.
 Dialogue: 0,0:44:39.96,0:44:43.40,Чоловік1,,0,0,0,,{\pos(1223,709)}Tu były młyny, takie okrągłe.
@@ -946,94 +947,93 @@ Dialogue: 0,0:44:43.52,0:44:44.32,Default,,0,0,0,,Wiatraki.
 Dialogue: 0,0:44:44.44,0:44:45.44,Чоловік1,,0,0,0,,{\pos(1223,709)}Wiatraki.
 Dialogue: 0,0:44:45.52,0:44:50.64,Чоловік1,,0,0,0,,{\pos(1223,709)}Zabrał połowę, wyniósł i przyszedł tutaj.
 Dialogue: 0,0:44:50.76,0:44:52.20,Чоловік1,,0,0,0,,{\pos(1223,709)}A tu ktoś kradł mąkę.
-Dialogue: 0,0:44:52.32,0:44:56.04,Чоловік1,,0,0,0,,{\pos(1223,709)}Powiedział: "Odłóż mąkę\N(Postav muku) z powrotem".
+Dialogue: 0,0:44:52.32,0:44:56.04,Чоловік1,,0,0,0,,{\pos(1223,709)}Powiedział: "Odłóż mąkę\N(Postaw muku) z powrotem".
 Dialogue: 0,0:44:56.16,0:44:57.40,Чоловік1,,0,0,0,,{\pos(1223,709)}I tak to się nazywało.
-Dialogue: 0,0:44:57.52,0:45:00.64,Чоловік1,,0,0,0,,{\pos(1223,709)}Potem zaczęto mówić "Postav-Muky".
+Dialogue: 0,0:44:57.52,0:45:00.64,Чоловік1,,0,0,0,,{\pos(1223,709)}Potem zaczęto mówić "Postaw-Muky".
 Dialogue: 0,0:45:00.76,0:45:03.28,Чоловік1,,0,0,0,,{\pos(1223,709)}Potem zmienili to na "y" (akcent).
-Dialogue: 0,0:45:03.40,0:45:07.68,Чоловік1,,0,0,0,,{\pos(1223,709)}Usłyszałem to ponownie w tej biografii.
+Dialogue: 0,0:45:03.40,0:45:07.68,Чоловік1,,0,0,0,,{\pos(1223,709)}Ja tę biografię znam, słyszałem.
 Dialogue: 0,0:45:07.80,0:45:09.32,Чоловік1,,0,0,0,,{\pos(1223,709)}Tym razem przez "y".
-Dialogue: 0,0:45:09.44,0:45:12.80,Чоловік1,,0,0,0,,{\pos(1223,709)}Ale w rzeczywistości\Nbyło to "Postav-Muku".
-Dialogue: 0,0:45:14.12,0:45:17.44,Чоловік1,,0,0,0,,{\pos(1223,709)}Ale słyszysz (źle), oni idą do Pisky.
+Dialogue: 0,0:45:09.44,0:45:12.80,Чоловік1,,0,0,0,,{\pos(1223,709)}Ale w rzeczywistości\Nbyło to "Postaw-Muku".
+Dialogue: 0,0:45:14.12,0:45:17.44,Чоловік1,,0,0,0,,{\pos(1223,709)}Nie słyszysz? Na Pisky idą kur*a.
 Dialogue: 0,0:45:17.60,0:45:20.52,Чоловік1,,0,0,0,,{\pos(1223,709)}Jadą też do klasztorów.
-Dialogue: 0,0:45:33.08,0:45:35.96,Default,,0,0,0,,Jesteśmy w Postav-Muku.
+Dialogue: 0,0:45:33.08,0:45:35.96,Default,,0,0,0,,Jesteśmy w Postaw-Muky.
 Dialogue: 0,0:45:36.08,0:45:39.68,Default,,0,0,0,,Widziałeś to. Piliśmy\Nwódkę. Z tymi wujkami.
 Dialogue: 0,0:45:39.80,0:45:41.04,Default,,0,0,0,,Powodem nie była wódka.
-Dialogue: 0,0:45:41.16,0:45:43.80,Default,,0,0,0,,Wódka, oczywiście, dodawała swojego
-Dialogue: 0,0:45:43.92,0:45:44.68,Default,,0,0,0,,uroku.
+Dialogue: 0,0:45:41.16,0:45:44.68,Default,,0,0,0,,Wódka, oczywiście, dodawała swojego uroku.
 Dialogue: 0,0:45:44.80,0:45:46.96,Default,,0,0,0,,Ale opuszczenie tej wioski\Njest po prostu nierealne.
-Dialogue: 0,0:45:47.08,0:45:48.68,Default,,0,0,0,,Spójrz, co tu się dzieje. Jest bajecznie.
+Dialogue: 0,0:45:47.08,0:45:48.68,Default,,0,0,0,,Spójrzcie, co tu się dzieje. To jest bajeczne.
 Dialogue: 0,0:45:48.68,0:45:51.52,Default,,0,0,0,,Ogólnie rzecz biorąc, region Połtawy jest\Nrodzajem zerwania ze wszystkimi szablonami.
 Dialogue: 0,0:45:51.52,0:45:53.60,Default,,0,0,0,,Zarówno to, czego się spodziewaliśmy,
 Dialogue: 0,0:45:53.72,0:45:55.28,Default,,0,0,0,,jak i to, z czym mamy do czynienia,
-Dialogue: 0,0:45:55.40,0:45:57.92,Default,,0,0,0,,to rewolucja wszystkich realiów.
-Dialogue: 0,0:45:58.04,0:46:00.00,Default,,0,0,0,,I, słuchaj, pojawił się\Ntutaj prawdziwy konkurent
-Dialogue: 0,0:46:00.12,0:46:01.84,Default,,0,0,0,,w moim życiu, który\Nmoże wkroczyć na Podillię.
-Dialogue: 0,0:46:01.84,0:46:02.72,Default,,0,0,0,,Naprawdę "zniszczyć" Podillię.
-Dialogue: 0,0:46:02.84,0:46:06.88,Default,,0,0,0,,Zawsze myślałem, że Podillia to takie\Nautentyczne miejsce, porośnięte zaroślami.
+Dialogue: 0,0:45:55.40,0:45:57.92,Default,,0,0,0,,to przewrót wszystkich realiów.
+Dialogue: 0,0:45:58.04,0:46:00.00,Default,,0,0,0,,I, słuchajcie, pojawił się\Ntutaj prawdziwy konkurent
+Dialogue: 0,0:46:00.12,0:46:01.84,Default,,0,0,0,,w moim życiu, który\Nmoże przewyższyć Podole.
+Dialogue: 0,0:46:01.84,0:46:02.72,Default,,0,0,0,,Naprawdę "zniszczyć" Podole.
+Dialogue: 0,0:46:02.84,0:46:06.88,Default,,0,0,0,,Zawsze myślałem, że Podole to takie\Nautentyczne miejsce, porośnięte zaroślami.
 Dialogue: 0,0:46:07.00,0:46:09.56,Default,,0,0,0,,Region Połtawy - wow! Yo, co ty robisz?
-Dialogue: 0,0:46:09.68,0:46:11.44,Default,,0,0,0,,Stój! Spójrz na to wszystko.
+Dialogue: 0,0:46:09.68,0:46:11.44,Default,,0,0,0,,Stój! Spójrzcie na to wszystko.
 Dialogue: 0,0:46:11.56,0:46:13.52,Default,,0,0,0,,Po prostu idziemy przez te wioski.
 Dialogue: 0,0:46:13.64,0:46:15.28,Default,,0,0,0,,Przez tę palisadę.
 Dialogue: 0,0:46:15.40,0:46:17.96,Default,,0,0,0,,Jest na każdym kroku.
-Dialogue: 0,0:46:18.08,0:46:19.80,Default,,0,0,0,,Spójrz na te domy.
+Dialogue: 0,0:46:18.08,0:46:19.80,Default,,0,0,0,,Spójrzcie na te chaty.
 Dialogue: 0,0:46:19.92,0:46:21.56,Default,,0,0,0,,Mój Boże, wydaje mi\Nsię, że region Połtawy
-Dialogue: 0,0:46:21.60,0:46:23.40,Default,,0,0,0,,jest rodzajem maksymalnego muzeum.
+Dialogue: 0,0:46:21.60,0:46:23.40,Default,,0,0,0,,jest rodzajem całkowitego wielkiego muzeum.
 Dialogue: 0,0:46:23.52,0:46:26.48,Default,,0,0,0,,Nie tylko jeden dom, ale cały\Nregion to muzeum pod gołym niebem.
-Dialogue: 0,0:46:26.60,0:46:27.64,Default,,0,0,0,,Kilka takich chat.
-Dialogue: 0,0:46:27.76,0:46:29.84,Default,,0,0,0,,Wszystkie te domy są pokryte słomą.
-Dialogue: 0,0:46:30.00,0:46:31.88,Default,,0,0,0,,Z tymi okiennicami, okiennicami.
-Dialogue: 0,0:46:32.00,0:46:33.20,Default,,0,0,0,,Co to jest?
+Dialogue: 0,0:46:26.60,0:46:27.64,Default,,0,0,0,,Pełno takich chat.
+Dialogue: 0,0:46:27.76,0:46:29.84,Default,,0,0,0,,Wszystkie te chaty są pokryte słomą.
+Dialogue: 0,0:46:30.00,0:46:31.88,Default,,0,0,0,,Z tymi okiennicami.
+Dialogue: 0,0:46:32.00,0:46:33.20,Default,,0,0,0,,Co to?
 Dialogue: 0,0:46:33.32,0:46:35.92,Default,,0,0,0,,Nie wiem, jak to w ogóle skomentować.
 Dialogue: 0,0:46:36.04,0:46:39.00,Default,,0,0,0,,Nie wiem, czy te emocje są\Nteraz przekazywane przez wideo,
 Dialogue: 0,0:46:39.12,0:46:40.12,Default,,0,0,0,,czy nie są przekazywane.
 Dialogue: 0,0:46:40.20,0:46:43.32,Default,,0,0,0,,To jakiś rodzaj szaleństwa.
-Dialogue: 0,0:46:43.44,0:46:45.64,Default,,0,0,0,,To wszystko jest ze słomy.
-Dialogue: 0,0:46:45.76,0:46:48.32,Default,,0,0,0,,Czy to jest pokryte trzciną? Spójrz na to.
+Dialogue: 0,0:46:43.44,0:46:45.64,Default,,0,0,0,,Ta cała słoma..
+Dialogue: 0,0:46:45.76,0:46:48.32,Default,,0,0,0,,Czy to jest pokryte trzciną? Spójrzcie na to.
 Dialogue: 0,0:46:48.44,0:46:49.76,Default,,0,0,0,,Kto tu wtedy mieszkał?
-Dialogue: 0,0:46:49.88,0:46:51.44,Default,,0,0,0,,To tutaj jest teraz nasza wyobraźnia,
+Dialogue: 0,0:46:49.88,0:46:51.44,Default,,0,0,0,,Tu teraz fantazje w naszej głowie.
 Dialogue: 0,0:46:51.56,0:46:53.16,Default,,0,0,0,,kiedy wyobrażamy sobie w historii
-Dialogue: 0,0:46:53.28,0:46:55.28,Default,,0,0,0,,że w przeszłości\Nwszystko jest pokryte tym
+Dialogue: 0,0:46:53.28,0:46:55.28,Default,,0,0,0,,że w przeszłości wszystko jest pokryte tym
 Dialogue: 0,0:46:57.04,0:46:58.68,Default,,0,0,0,,cieniem, filtrem nostalgii,
 Dialogue: 0,0:46:58.80,0:47:00.40,Default,,0,0,0,,piękna, że nic nie było wtedy złe,
 Dialogue: 0,0:47:00.52,0:47:02.12,Default,,0,0,0,,wszystko było piękne i takie romantyczne
 Dialogue: 0,0:47:02.24,0:47:03.36,Default,,0,0,0,,w dawnych czasach.
-Dialogue: 0,0:47:03.48,0:47:05.44,Default,,0,0,0,,A ta hata jest naprawdę\Nkompletnym dodatkiem
-Dialogue: 0,0:47:05.56,0:47:07.32,Default,,0,0,0,,do całego obrazu, który\Nmamy w naszych umysłach
-Dialogue: 0,0:47:07.32,0:47:08.36,Default,,0,0,0,,zawsze o przeszłości\Nw naszych umysłach.
+Dialogue: 0,0:47:03.48,0:47:05.44,Default,,0,0,0,,A ta chata jest naprawdę\Nkompletnym dopełnieniem.
+Dialogue: 0,0:47:05.56,0:47:07.32,Default,,0,0,0,,do całego obrazu, który powstaje u nas
+Dialogue: 0,0:47:07.32,0:47:08.36,Default,,0,0,0,,zawsze o przeszłości w głowie.
 Dialogue: 0,0:47:08.36,0:47:12.88,Default,,0,0,0,,Wygląda na opuszczoną i\Ntak piękną, jak to tylko możliwe.
-Dialogue: 0,0:47:13.00,0:47:14.04,Default,,0,0,0,,Piękno tkwi w porzuceniu.
-Dialogue: 0,0:47:14.16,0:47:16.88,Default,,0,0,0,,To jest prawdziwa estetyka khashchiv...
-Dialogue: 0,0:47:17.00,0:47:20.48,Default,,0,0,0,,To jest, jeśli istnieje na to określenie,\Nestetyka zarośli, "Ukraina bez kosmetyków".
-Dialogue: 0,0:47:20.60,0:47:21.72,Default,,0,0,0,,To jest to.
-Dialogue: 0,0:47:21.84,0:47:25.88,Default,,0,0,0,,I wiesz, spędziliśmy więcej\Nczasu w tej wiosce koło sklepu.
-Dialogue: 0,0:47:26.00,0:47:27.68,Default,,0,0,0,,Włóczyliśmy się przypadkowo,
-Dialogue: 0,0:47:27.80,0:47:29.60,Default,,0,0,0,,nie zbadaliśmy tej wsi,\Nnie wiemy ile ich jest.
+Dialogue: 0,0:47:13.00,0:47:14.04,Default,,0,0,0,,Piękno w porzuceniu.
+Dialogue: 0,0:47:14.16,0:47:16.88,Default,,0,0,0,,To jest prawdziwa estetyka "Chaszczy"..
+Dialogue: 0,0:47:17.00,0:47:20.48,Default,,0,0,0,,To jest, jeśli istnieje na to określenie,\Nestetyka "Chaszczy", "Ukraina bez kosmetyków".
+Dialogue: 0,0:47:20.60,0:47:21.72,Default,,0,0,0,,"To jest to.
+Dialogue: 0,0:47:21.84,0:47:25.88,Default,,0,0,0,,I wiecie, spędziliśmy ponad godzinę\Nczasu w tej wiosce koło sklepu.
+Dialogue: 0,0:47:26.00,0:47:27.68,Default,,0,0,0,,Włóczymy się losowo.
+Dialogue: 0,0:47:27.80,0:47:29.60,Default,,0,0,0,,nie zbadaliśmy tej wsi,\Nnie wiemy ile tu jest.
 Dialogue: 0,0:47:29.60,0:47:32.40,Default,,0,0,0,,Być może nie jest to\Nnajciekawszy dom w tej wsi.
 Dialogue: 0,0:47:32.52,0:47:36.36,Default,,0,0,0,,To wezwanie do podróży po\NUkrainie, do przyjazdu tutaj i odkrywania,
 Dialogue: 0,0:47:36.48,0:47:37.68,Default,,0,0,0,,zobaczyć gdzie, co, jak.
 Dialogue: 0,0:47:37.80,0:47:38.92,Default,,0,0,0,,Nie wybraliśmy najlepszego.
-Dialogue: 0,0:47:39.04,0:47:42.28,Default,,0,0,0,,Bo kiedyś piękno: "beauty\NInstagram", "beauty YouTube" blogi
-Dialogue: 0,0:47:42.40,0:47:43.44,Default,,0,0,0,,przyjeżdżają do miasta,
+Dialogue: 0,0:47:39.04,0:47:42.28,Default,,0,0,0,,Bo kiedyś piękno: "beauty\NInstagram", "beauty YouTube"
+Dialogue: 0,0:47:42.40,0:47:43.44,Default,,0,0,0,,blogerzy przyjeżdżają do miasta,
 Dialogue: 0,0:47:43.56,0:47:46.00,Default,,0,0,0,,naprawdę pracują,\Nwcześniej studiują informacje,
 Dialogue: 0,0:47:46.12,0:47:48.80,Default,,0,0,0,,znajdują najpiękniejsze rzeczy i\Nfilmują je, najpiękniejsze obiekty.
 Dialogue: 0,0:47:48.80,0:47:51.40,Default,,0,0,0,,Kamieniec Podolski:\NTwierdza, koszary, ratusz,
 Dialogue: 0,0:47:51.52,0:47:54.04,Default,,0,0,0,,Lwów jest taki sam, Czerniowce:\NUniwersytet i wszystko inne.
-Dialogue: 0,0:47:54.16,0:47:55.84,Default,,0,0,0,,Jesteśmy.
-Dialogue: 0,0:47:55.96,0:47:57.56,Default,,0,0,0,,Nasz projekt Khashchi to\Nzupełna przypadkowość.
+Dialogue: 0,0:47:54.16,0:47:55.84,Default,,0,0,0,,A my...
+Dialogue: 0,0:47:55.96,0:47:57.56,Default,,0,0,0,,Nasz projekt Chaszcze to\Nzupełna przypadkowość.
 Dialogue: 0,0:47:57.56,0:48:00.44,Default,,0,0,0,,Spacerujemy, pijemy wódkę\Nz chłopakami w pobliżu sklepu,
-Dialogue: 0,0:48:00.56,0:48:02.44,Default,,0,0,0,,a potem znajdujemy\Ndom i nagrywanie na wi go.
+Dialogue: 0,0:48:00.56,0:48:02.44,Default,,0,0,0,,a potem znajdujemy\Ndom i nagrywamy go.
 Dialogue: 0,0:48:02.56,0:48:03.56,Default,,0,0,0,,Ale ja nawet nie wiem,
 Dialogue: 0,0:48:03.68,0:48:05.60,Default,,0,0,0,,może 100 metrów dalej\Njest dużo ciekawszy obiekt,
 Dialogue: 0,0:48:05.60,0:48:07.76,Default,,0,0,0,,dużo ciekawszy dom z szaloną historią,
 Dialogue: 0,0:48:07.88,0:48:10.16,Default,,0,0,0,,jest bardzo fajny, wygląda pięknie.
 Dialogue: 0,0:48:10.28,0:48:11.12,Default,,0,0,0,,Tego nie wiemy.
 Dialogue: 0,0:48:11.24,0:48:13.40,Default,,0,0,0,,I czasami mam to\Npieprzone poczucie straty.
-Dialogue: 0,0:48:13.52,0:48:15.64,Default,,0,0,0,,Że nie pokazaliśmy\Nwszystkiego na maksa,
-Dialogue: 0,0:48:15.76,0:48:18.68,Default,,0,0,0,,Że chcę zostać w tej\Nwiosce, odkrywać wszystko.
+Dialogue: 0,0:48:13.52,0:48:15.64,Default,,0,0,0,,Że nie pokazaliśmy\Nwszystkiego ile można było.
+Dialogue: 0,0:48:15.76,0:48:18.68,Default,,0,0,0,,Że chce się zostać w tej\Nwiosce, odkrywać wszystko.
 Dialogue: 0,0:48:18.80,0:48:20.88,Default,,0,0,0,,Ale jednocześnie ta\Nprzypadkowość jest piękna.
 Dialogue: 0,0:48:21.00,0:48:23.08,Default,,0,0,0,,Spotkaliśmy ten dom, co\Noznacza, że losem tego domu jest
 Dialogue: 0,0:48:23.08,0:48:25.64,Default,,0,0,0,,być uchwyconym w naszym\Nkadrze i uwiecznionym
-Dialogue: 0,0:48:25.76,0:48:28.12,Default,,0,0,0,,w naszym filmie, który właśnie oglądasz.
+Dialogue: 0,0:48:25.76,0:48:28.12,Default,,0,0,0,,w naszym filmie, który właśnie oglądacie.
 Dialogue: 0,0:48:28.24,0:48:29.64,Default,,0,0,0,,Niektórzy ludzie, kiedy\Nżyli, kiedy je budowali,
 Dialogue: 0,0:48:29.64,0:48:32.24,Default,,0,0,0,,nie mogli sobie nawet wyobrazić,\Nże będą takie technologie,
 Dialogue: 0,0:48:32.36,0:48:34.92,Default,,0,0,0,,że będą kamery, które będą używane\Ndo filmowania tego wszystkiego.
