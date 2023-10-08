@@ -625,8 +625,8 @@ Dialogue: 0,0:28:31.08,0:28:34.08,Default,,0,0,0,,Żałuję, że przez tyle lat 
 Dialogue: 0,0:28:34.20,0:28:36.96,Default,,0,0,0,,Teraz prawdopodobnie będzie to\Njeden z moich ulubionych regionów,
 Dialogue: 0,0:28:37.08,0:28:39.44,Default,,0,0,0,,podróżować po regionie Połtawy.
 Dialogue: 0,0:28:46.52,0:28:48.96,Default,,0,0,0,,Jak wyglądają\Nopuszczone wiejskie sklepy?
-Dialogue: 0,0:28:51.00,0:28:53.16,Default,,0,0,0,,Dzielnica Chornukhy.\NDawna dzielnica Chornukhy.
-Dialogue: 0,0:28:53.28,0:28:57.08,Default,,0,0,0,,Nawiasem mówiąc, kiedyś była to jedna z najbardziej\Numierających dzielnic w obwodzie połtawskim.
+Dialogue: 0,0:28:51.00,0:28:53.16,Default,,0,0,0,,Rejon Chornuchyński.\NDawny rejon Chornuchyński.
+Dialogue: 0,0:28:53.28,0:28:57.08,Default,,0,0,0,,Nawiasem mówiąc, kiedyś jeden z najszybciej\Nwymierających w obwodzie połtawskim.
 Dialogue: 0,0:28:57.16,0:28:59.52,Default,,0,0,0,,Niestety, obwód połtawski\Nrównież dość szybko wymiera.
 Dialogue: 0,0:28:59.64,0:29:02.44,Default,,0,0,0,,Widzimy to teraz.
 Dialogue: 0,0:29:02.56,0:29:05.28,Default,,0,0,0,,Ale to wszystko, prawdopodobnie rozwinęliśmy\Ncoś w rodzaju "zboczenia zawodowego".
@@ -634,26 +634,26 @@ Dialogue: 0,0:29:05.28,0:29:09.64,Default,,0,0,0,,Widzę te opuszczone wioski\Ni
 Dialogue: 0,0:29:09.76,0:29:12.56,Другий похідник,,0,0,0,,W przeciwieństwie do\Ninnych, którzy mogli tu mieszkać.
 Dialogue: 0,0:29:12.68,0:29:15.92,Default,,0,0,0,,Ale kiedy idę to\Nzobaczyć, cieszę się z tego.
 Dialogue: 0,0:29:16.04,0:29:18.92,Default,,0,0,0,,Byłem na Wołyniu, szukałem\Nwszystkiego i tam tego nie widziałem.
-Dialogue: 0,0:29:19.04,0:29:20.96,Default,,0,0,0,,Nie znalazłeś tego, czego szukałeś.
+Dialogue: 0,0:29:19.04,0:29:20.96,Default,,0,0,0,,Na zasadzie:\N"nie znalazłeś tego, czego szukałeś".
 Dialogue: 0,0:29:21.08,0:29:24.16,Default,,0,0,0,,Ale tam znalazłem coś innego. A tutaj?
-Dialogue: 0,0:29:24.28,0:29:26.20,Default,,0,0,0,,Chociaż, oczywiście, wszystko jest złe.
-Dialogue: 0,0:29:26.32,0:29:29.92,Default,,0,0,0,,I nie traktuj naszej radości ze znalezienia\Ngąszczu tak, jakby to było coś dobrego.
-Dialogue: 0,0:29:30.04,0:29:33.00,Default,,0,0,0,,Nie ma tu wiele dobrego.\NTo po prostu naturalne.
-Dialogue: 0,0:29:34.12,0:29:36.52,Другий похідник,,0,0,0,,Proces. Zobaczymy\Nten proces właśnie tutaj.
-Dialogue: 0,0:29:40.64,0:29:43.04,Default,,0,0,0,,Przy okazji, te trzcinowe strzechy,
+Dialogue: 0,0:29:24.28,0:29:26.20,Default,,0,0,0,,Chociaż, oczywiście, to wszystko jest złe.
+Dialogue: 0,0:29:26.32,0:29:29.92,Default,,0,0,0,,I nie traktujcie naszej radości ze znajdowania \Nhaszczy jakby to było coś dobrego.
+Dialogue: 0,0:29:30.04,0:29:33.00,Default,,0,0,0,,Nie ma tu wiele dobrego.\NTo zwyczajnie naturalne.
+Dialogue: 0,0:29:34.12,0:29:36.52,Другий похідник,,0,0,0,,Proces. Opisany i zaobserwowany proces
+Dialogue: 0,0:29:40.64,0:29:43.04,Default,,0,0,0,,Przy okazji, w kwestii tych trzcinowych\Ni słomianych dachach.
 Dialogue: 0,0:29:43.16,0:29:44.84,Default,,0,0,0,,Region Połtawy bije wszystkie\Ndotychczasowe rekordy.
 Dialogue: 0,0:29:44.84,0:29:45.28,Другий похідник,,0,0,0,,Poważnie?
 Dialogue: 0,0:29:45.40,0:29:46.56,Default,,0,0,0,,Nigdzie indziej nie widziałem ich tylu.
-Dialogue: 0,0:29:46.56,0:29:49.16,Default,,0,0,0,,Na każdej ulicy jest dom kryty strzechą.
+Dialogue: 0,0:29:46.56,0:29:49.16,Default,,0,0,0,,Na każdej ulicy jest dom kryty słomą.
 Dialogue: 0,0:29:49.28,0:29:50.92,Default,,0,0,0,,Nigdzie indziej nie ma ich tak wiele.
-Dialogue: 0,0:29:51.04,0:29:54.80,Default,,0,0,0,,Bo to jest starożytna Ukraina.\NUkraina dziewiętnastego wieku.
-Dialogue: 0,0:29:56.08,0:29:57.32,Default,,0,0,0,,To stary świat.
+Dialogue: 0,0:29:51.04,0:29:54.80,Default,,0,0,0,,Bo to jest starodawna Ukraina.\NUkraina dziewiętnastego wieku.
+Dialogue: 0,0:29:56.08,0:29:57.32,Default,,0,0,0,,Staroświecka
 Dialogue: 0,0:29:57.44,0:30:00.72,Default,,0,0,0,,W rzeczywistości ta chata\Njest teraz dla mnie tajemnicą
 Dialogue: 0,0:30:00.84,0:30:05.60,Default,,0,0,0,,i zebrałem dwa archetypy,\Ndwa kody ukraińskiej wsi.
 Dialogue: 0,0:30:05.72,0:30:07.80,Default,,0,0,0,,W zasadzie sposób, w jaki\Nzawsze kojarzyłem ukraińską wieś.
 Dialogue: 0,0:30:07.80,0:30:08.64,Default,,0,0,0,,Nawet trzy, mogę powiedzieć.
-Dialogue: 0,0:30:08.76,0:30:10.60,Default,,0,0,0,,To jest oczywiście ta chata\Nkryta strzechą (pierwsza).
-Dialogue: 0,0:30:10.60,0:30:13.76,Default,,0,0,0,,To jest chata z błota (druga),\Nktóra jest już trochę zrujnowana.
+Dialogue: 0,0:30:08.76,0:30:10.60,Default,,0,0,0,,To jest oczywiście ta chata\Nkryta słomą (pierwsza).
+Dialogue: 0,0:30:10.60,0:30:13.76,Default,,0,0,0,,To gliniana chata (druga),\Nktóra jest już trochę zrujnowana.
 Dialogue: 0,0:30:13.88,0:30:14.92,Default,,0,0,0,,"Trochę zrujnowana".
 Dialogue: 0,0:30:15.04,0:30:16.44,Default,,0,0,0,,Rozpada się i jest smutna.
 Dialogue: 0,0:30:16.56,0:30:20.80,Default,,0,0,0,,A wnętrze tej chaty to po prostu\Nsymbol całej epoki sowieckiej,
@@ -661,18 +661,18 @@ Dialogue: 0,0:30:20.92,0:30:24.00,Default,,0,0,0,,symbol wszystkich lat dziewię
 Dialogue: 0,0:30:24.12,0:30:27.24,Default,,0,0,0,,Na podłodze leży radio\Nprzewodowe (trzecie).
 Dialogue: 0,0:30:27.36,0:30:33.04,Default,,0,0,0,,I teraz mam w głowie ten\Nnostalgicznie smutny, ciepły obraz,
 Dialogue: 0,0:30:34.36,0:30:37.04,Default,,0,0,0,,ciepłą, nostalgicznie\Nsmutną i ciepłą melodię
-Dialogue: 0,0:30:37.20,0:30:41.96,Default,,0,0,0,,z tymi znakami wywoławczymi\Npierwszego kanału ukraińskiego radia.
+Dialogue: 0,0:30:37.20,0:30:41.96,Default,,0,0,0,,z tymi sygnałami wywoławczymi\Npierwszego kanału ukraińskiego radia.
 Dialogue: 0,0:30:42.08,0:30:44.56,Default,,0,0,0,,Jest dzisiejszy poranek, wieś,\Nmgła, godzina szósta (rano).
 Dialogue: 0,0:30:44.68,0:30:49.40,Default,,0,0,0,,Wiadomo, co to jest:\NBip, bip, bip. "Kijów mówi".
-Dialogue: 0,0:30:50.44,0:30:56.04,Default,,0,0,0,,I cisza, i wieś, i ten zapach mleka,\Nkoty ocierające się o moje nogi.
+Dialogue: 0,0:30:50.44,0:30:56.04,Default,,0,0,0,,I cisza, i wieś, i ten zapach mleka,\Nkoty ocierające się o nogi.
 Dialogue: 0,0:30:56.16,0:30:58.28,Default,,0,0,0,,Przy okazji, napiszcie do mnie, jeśli jesteście\Nzainteresowani tematem ukraińskiego radia.
 Dialogue: 0,0:30:58.28,0:31:00.08,Default,,0,0,0,,Od dłuższego czasu chodzi\Nmi po głowie pewien pomysł.
 Dialogue: 0,0:31:00.08,0:31:02.12,Default,,0,0,0,,Co znaleźć, bo ja wiem co
-Dialogue: 0,0:31:02.24,0:31:04.64,Default,,0,0,0,,I napisz do mnie, jeśli masz jeszcze w\Nswojej miejscowości radio przewodowe.
-Dialogue: 0,0:31:04.64,0:31:08.96,Default,,0,0,0,,Bo niestety obecnie zostało ono\Nodłączone od prawie 90%+ wsi na Ukrainie.
-Dialogue: 0,0:31:09.08,0:31:11.44,Default,,0,0,0,,I nadal musimy szukać wiosek, w\Nktórych jest ono jeszcze dostępne.
-Dialogue: 0,0:31:11.44,0:31:15.24,Default,,0,0,0,,W przypadku, gdy Twoja\Nwieś nadal ma takie radio,
-Dialogue: 0,0:31:15.36,0:31:18.36,Default,,0,0,0,,które działa na\Nprzewodach, na przewodach,
+Dialogue: 0,0:31:02.24,0:31:04.64,Default,,0,0,0,,I napiszcie, czy w waszej wiosce\Nzostało radio przewodowe.
+Dialogue: 0,0:31:04.64,0:31:08.96,Default,,0,0,0,,Bo niestety obecnie zostało ono\Nodłączone od ponad 90% wsi na Ukrainie.
+Dialogue: 0,0:31:09.08,0:31:11.44,Default,,0,0,0,,I musimy szukać wiosek, w\Nktórych jest ono jeszcze dostępne.
+Dialogue: 0,0:31:11.44,0:31:15.24,Default,,0,0,0,,W przypadku, gdy w waszej wsi\Nnadal uchowało się takie radio.
+Dialogue: 0,0:31:15.36,0:31:18.36,Default,,0,0,0,,które działa na\Ndrutach, na przewodach,
 Dialogue: 0,0:31:18.48,0:31:19.48,Default,,0,0,0,,chętnie ją odwiedzimy.
 Dialogue: 0,0:31:19.56,0:31:21.60,Default,,0,0,0,,Marzy mi się nakręcenie filmu\No historii ukraińskiego radia.
 Dialogue: 0,0:31:21.60,0:31:22.92,Default,,0,0,0,,Tego ukraińskiego radia.
@@ -682,9 +682,8 @@ Dialogue: 0,0:31:28.60,0:31:31.28,Default,,0,0,0,,w kształtowaniu mojej\Nświad
 Dialogue: 0,0:31:31.40,0:31:33.20,Default,,0,0,0,,w latach dziewięćdziesiątych\Ni dwutysięcznych.
 Dialogue: 0,0:31:33.20,0:31:36.72,Default,,0,0,0,,Kiedy słyszałem w tym radiu\Nróżne stare ukraińskie piosenki,
 Dialogue: 0,0:31:36.84,0:31:41.16,Default,,0,0,0,,albo różne programy\Nhistoryczne i informacyjne.
-Dialogue: 0,0:31:42.36,0:31:43.16,Default,,0,0,0,,I ja
-Dialogue: 0,0:31:43.28,0:31:46.72,Default,,0,0,0,,czułem taką nostalgię,\Ntaką przyjemną, taką dobrą.
-Dialogue: 0,0:31:46.84,0:31:47.96,Default,,0,0,0,,Radio
+Dialogue: 0,0:31:42.36,0:31:43.16,Default,,0,0,0,,Ah mnie aż..
+Dialogue: 0,0:31:43.28,0:31:46.72,Default,,0,0,0,,serce oblało się\Nnostalgią taką przyjemną
 Dialogue: 0,0:31:49.60,0:31:50.60,Default,,0,0,0,,5
 Dialogue: 0,0:31:50.64,0:31:51.72,Default,,0,0,0,,4
 Dialogue: 0,0:31:51.88,0:31:52.56,Default,,0,0,0,,3
@@ -696,19 +695,19 @@ Dialogue: 0,0:32:02.00,0:32:04.72,Default,,0,0,0,,[wiadomości z ukraińskiego r
 Dialogue: 0,0:32:04.84,0:32:05.52,Курсив,,0,0,0,,W programie:
 Dialogue: 0,0:32:05.64,0:32:10.88,Курсив,,0,0,0,,Wołodymyr Łytwyn sugeruje, że jesienią może\Ndojść do szeregu zmian personalnych w rządzie.
 Dialogue: 0,0:32:11.00,0:32:12.28,Курсив,,0,0,0,,Gabinet ministrów przydzielił...
-Dialogue: 0,0:32:12.32,0:32:13.84,Default,,0,0,0,,Czy to twój dom rodzinny?
+Dialogue: 0,0:32:12.32,0:32:13.84,Default,,0,0,0,,Czy to wasz dom rodzinny?
 Dialogue: 0,0:32:13.96,0:32:14.72,Жінка4,,0,0,0,,Moich rodziców.
 Dialogue: 0,0:32:14.84,0:32:16.40,Default,,0,0,0,,Kiedy dokładnie został zbudowany?
 Dialogue: 0,0:32:17.48,0:32:18.52,Жінка4,,0,0,0,,Och.
-Dialogue: 0,0:32:18.64,0:32:20.36,Жінка4,,0,0,0,,Nigdy nie interesowałem się historią.
+Dialogue: 0,0:32:18.64,0:32:20.36,Жінка4,,0,0,0,,Nigdy nie interesowałam się historią.
 Dialogue: 0,0:32:20.48,0:32:21.80,Жінка4,,0,0,0,,Cóż, musi mieć około stu lat.
-Dialogue: 0,0:32:21.92,0:32:24.56,Default,,0,0,0,,Tak, w regionie Połtawy wciąż\Njest wiele domów krytych strzechą.
+Dialogue: 0,0:32:21.92,0:32:24.56,Default,,0,0,0,,W regionie Połtawy wciąż tak\Njest wiele domów krytych słomą.
 Dialogue: 0,0:32:24.68,0:32:26.08,Default,,0,0,0,,Nigdzie indziej czegoś\Ntakiego nie widzieliśmy.
 Dialogue: 0,0:32:26.08,0:32:27.52,Default,,0,0,0,,W każdej wiosce.
-Dialogue: 0,0:32:27.64,0:32:31.24,Жінка4,,0,0,0,,Najbiedniejsi prawdopodobnie\Nnie mieli tego pokrycia.
+Dialogue: 0,0:32:27.64,0:32:31.24,Жінка4,,0,0,0,,Najbiedniejsi pewnie,\Nskoro nie zmienili (pokrycia).
 Dialogue: 0,0:32:31.36,0:32:32.36,Default,,0,0,0,,Może tak.
-Dialogue: 0,0:32:32.40,0:32:33.96,Default,,0,0,0,,Mieszkacie tutaj czy\Nprzyjeżdżacie do daczy?
-Dialogue: 0,0:32:33.96,0:32:35.44,Жінка4,,0,0,0,,Mieszkamy tutaj, mieszkamy tutaj.
+Dialogue: 0,0:32:32.40,0:32:33.96,Default,,0,0,0,,Mieszkacie tutaj czy\Nprzyjeżdżacie na działkę?
+Dialogue: 0,0:32:33.96,0:32:35.44,Жінка4,,0,0,0,,Mieszkamy tutaj. Tak
 Dialogue: 0,0:32:35.56,0:32:37.88,Default,,0,0,0,,Ile osób tu mieszka?
 Dialogue: 0,0:32:38.00,0:32:42.60,Жінка4,,0,0,0,,Och, 21-22.
 Dialogue: 0,0:32:42.72,0:32:45.20,Default,,0,0,0,,Słyszeliśmy już 15, a 22...
@@ -716,37 +715,37 @@ Dialogue: 0,0:32:45.32,0:32:49.28,Жінка4,,0,0,0,,Może nie liczą tych,\Nkt
 Dialogue: 0,0:32:49.40,0:32:50.84,Жінка4,,0,0,0,,Ja liczę wszystkich.
 Dialogue: 0,0:32:50.96,0:32:53.28,Жінка4,,0,0,0,,Moja mama mawiała:
 Dialogue: 0,0:32:53.40,0:32:57.72,Жінка4,,0,0,0,,"Nadejdzie czas, kiedy\Nzobaczysz gdzieś osobę
-Dialogue: 0,0:32:57.84,0:33:01.12,Жінка4,,0,0,0,,i będziesz zarówno\Nszczęśliwy, jak i krzyczący.
-Dialogue: 0,0:33:01.24,0:33:02.68,Жінка4,,0,0,0,,I słyszę głos.
+Dialogue: 0,0:32:57.84,0:33:01.12,Жінка4,,0,0,0,,I będziesz cieszyć się i wołać.
+Dialogue: 0,0:33:01.24,0:33:02.68,Жінка4,,0,0,0,,A ja słyszę głos.
 Dialogue: 0,0:33:02.80,0:33:04.16,Жінка4,,0,0,0,,Myślę: Gdzie? Kto to jest?
 Dialogue: 0,0:33:04.28,0:33:06.08,Жінка4,,0,0,0,,Gdzie są ludzie? Gdzie są ludzie?
 Dialogue: 0,0:33:06.20,0:33:06.88,Другий похідник,,0,0,0,,To my.
 Dialogue: 0,0:33:07.00,0:33:08.24,Default,,0,0,0,,To znaczy, nadszedł czas, prawda?
 Dialogue: 0,0:33:08.24,0:33:09.24,Жінка4,,0,0,0,,Nadszedł.
 Dialogue: 0,0:33:09.32,0:33:11.56,Жінка4,,0,0,0,,I może nadejdzie ponownie.
-Dialogue: 0,0:33:13.16,0:35:41.28,Default,,0,0,0,,♫ Komu Vnyz — I vy pokynuly ♫
+Dialogue: 0,0:33:13.16,0:35:41.28,Default,,0,0,0,,♫ Komu Vnyz — I wy pokynuly [ukr. І ви покинули] ♫
 Dialogue: 0,0:35:42.88,0:35:46.72,Default,,0,0,0,,Idąc ostatnią ulicą tej Leśnej Słobódki,
 Dialogue: 0,0:35:46.84,0:35:50.60,Default,,0,0,0,,jesteś zaskoczony, jak\Nwszystko jest zarośnięte.
 Dialogue: 0,0:35:50.72,0:35:54.84,Default,,0,0,0,,Jest tak pusto i martwo.
 Dialogue: 0,0:35:54.96,0:35:57.76,Default,,0,0,0,,Nie widać nawet bezpośrednio\Nulic. Naprawdę nie widać tu ulic.
 Dialogue: 0,0:35:57.88,0:36:01.00,Default,,0,0,0,,To zdjęcie pochodzi\Nsprzed okresu sowieckiego.
-Dialogue: 0,0:36:01.12,0:36:02.80,Другий похідник,,0,0,0,,Jak można to stwierdzić?
+Dialogue: 0,0:36:01.12,0:36:02.80,Другий похідник,,0,0,0,,Jak to określiłeś?
 Dialogue: 0,0:36:02.92,0:36:05.36,Default,,0,0,0,,W czasach sowieckich\Nnie noszono takich czapek,
-Dialogue: 0,0:36:05.48,0:36:07.36,Default,,0,0,0,,Krzyż jest nadal oczywisty,\Npodczas gdy w czasach ateizmu...
-Dialogue: 0,0:36:07.36,0:36:08.92,Default,,0,0,0,,Cóż, co najwyżej lata dwudzieste.
+Dialogue: 0,0:36:05.48,0:36:07.36,Default,,0,0,0,,Krzyż widoczny.\NKiedy taki w czasie ateizmu?
+Dialogue: 0,0:36:07.36,0:36:08.92,Default,,0,0,0,,Najwyżej lata 20.
 Dialogue: 0,0:36:09.04,0:36:11.04,Default,,0,0,0,,Zasadniczo większość\Nzdjęć wyglądała tak
-Dialogue: 0,0:36:11.16,0:36:12.20,Default,,0,0,0,,w czasach a tam a na tu (1919).
-Dialogue: 0,0:36:12.20,0:36:13.68,Default,,0,0,0,,Który, nawiasem mówiąc,\Nkwitł w tych stronach.
+Dialogue: 0,0:36:11.16,0:36:12.20,Default,,0,0,0,,W czasach Hetmanatu.
+Dialogue: 0,0:36:12.20,0:36:13.68,Default,,0,0,0,,Który zresztą w tym regionie kwitł.
 Dialogue: 0,0:36:13.68,0:36:15.36,Default,,0,0,0,,Jest tam tak wiele interesujących historii.
-Dialogue: 0,0:36:15.36,0:36:16.96,Default,,0,0,0,,To są rozlewiska, po których pływaliśmy,
-Dialogue: 0,0:36:17.96,0:36:21.40,Default,,0,0,0,,oto jeden z ostatnich oddziałów\Natamanów rebeliantów w rejonie Czornuchy,
-Dialogue: 0,0:36:21.52,0:36:23.36,Default,,0,0,0,,który został zniszczony w Chornukhyne
-Dialogue: 0,0:36:23.48,0:36:25.96,Default,,0,0,0,,między wsiami Bijowce\Ni Lisowa Słobidka.
-Dialogue: 0,0:36:26.08,0:36:30.44,Default,,0,0,0,,Na tych rozlewiskach został złapany\Nataman Czumak, nazywał się Czumak.
+Dialogue: 0,0:36:15.36,0:36:16.96,Default,,0,0,0,,Ot w tych szuwarach w jakich się kąpaliśmy
+Dialogue: 0,0:36:17.96,0:36:21.40,Default,,0,0,0,,Tu jeden z ostatnich oddziałów atamanów \Nrebeliantów rejonu Chornuchyńskiego
+Dialogue: 0,0:36:21.52,0:36:23.36,Default,,0,0,0,,i w Chornuchach był zabity.
+Dialogue: 0,0:36:23.48,0:36:25.96,Default,,0,0,0,,między wsiami Bijowcami\Ni Lisowa Słobidka.
+Dialogue: 0,0:36:26.08,0:36:30.44,Default,,0,0,0,,Na tych szuwarach został złapany..\NZwał się ataman Czumak.
 Dialogue: 0,0:36:30.56,0:36:32.80,Default,,0,0,0,,Był jednym z ostatnich\Nludzi, którzy tu walczyli.
-Dialogue: 0,0:36:32.92,0:36:34.76,Default,,0,0,0,,Było ich wielu. Ciekawe,\Nże było dwóch ostatnich.
-Dialogue: 0,0:36:34.76,0:36:38.52,Default,,0,0,0,,Jeden z nich nazywał\Nsię Alyosha Katsap,
-Dialogue: 0,0:36:38.64,0:36:42.72,Default,,0,0,0,,a drugi, nie pamiętam jak się\Nnazywał, był Czarnym Murzynem.
+Dialogue: 0,0:36:32.92,0:36:34.76,Default,,0,0,0,,Było ich wielu. Ciekawe,\Nże tych dwóch ostatnich było
+Dialogue: 0,0:36:34.76,0:36:38.52,Default,,0,0,0,,i jeden z nich nazywał się\NAloszka Kacap
+Dialogue: 0,0:36:38.64,0:36:42.72,Default,,0,0,0,,a drugi, nie pamiętam jak się\Nnazywał, był Czornyj Negr (Czarny Murzyn)
 Dialogue: 0,0:36:42.84,0:36:45.48,Default,,0,0,0,,Nazywano go Czarnym Murzynem, ponieważ był bardzo ciemny,\Nponieważ w tym czasie nazywano go Czarnym Murzynem.
 Dialogue: 0,0:36:45.48,0:36:46.68,Default,,0,0,0,,Ataman Czarny Murzyn.
 Dialogue: 0,0:36:46.80,0:36:51.96,Default,,0,0,0,,I oni jeszcze walczyli w tych wioskach, w\Ntych dzielnicach, do końca lat dwudziestych.
