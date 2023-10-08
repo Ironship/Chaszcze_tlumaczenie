@@ -706,8 +706,8 @@ Dialogue: 0,0:32:24.68,0:32:26.08,Default,,0,0,0,,Nigdzie indziej czegoś\Ntakie
 Dialogue: 0,0:32:26.08,0:32:27.52,Default,,0,0,0,,W każdej wiosce.
 Dialogue: 0,0:32:27.64,0:32:31.24,Жінка4,,0,0,0,,Najbiedniejsi pewnie,\Nskoro nie zmienili (pokrycia).
 Dialogue: 0,0:32:31.36,0:32:32.36,Default,,0,0,0,,Może tak.
-Dialogue: 0,0:32:32.40,0:32:33.96,Default,,0,0,0,,Mieszkacie tutaj czy\Nprzyjeżdżacie na działkę?
-Dialogue: 0,0:32:33.96,0:32:35.44,Жінка4,,0,0,0,,Mieszkamy tutaj. Tak
+Dialogue: 0,0:32:32.40,0:32:33.96,Default,,0,0,0,,Mieszkacie tutaj czy\Nprzyjeżdżacie na domek letniskowy?
+Dialogue: 0,0:32:33.96,0:32:35.44,Жінка4,,0,0,0,,Mieszkamy tu. Tak
 Dialogue: 0,0:32:35.56,0:32:37.88,Default,,0,0,0,,Ile osób tu mieszka?
 Dialogue: 0,0:32:38.00,0:32:42.60,Жінка4,,0,0,0,,Och, 21-22.
 Dialogue: 0,0:32:42.72,0:32:45.20,Default,,0,0,0,,Słyszeliśmy już 15, a 22...
@@ -754,7 +754,7 @@ Dialogue: 0,0:36:53.84,0:36:55.44,Другий похідник,,0,0,0,,W ogóle
 Dialogue: 0,0:36:55.56,0:36:57.52,Другий похідник,,0,0,0,,Zawsze tak jest na zdjęciach.
 Dialogue: 0,0:36:57.64,0:37:00.40,Другий похідник,,0,0,0,,W prawdziwym życiu inni a na zdjęciach\Nbardzo przerażający (ponurzy i bez emocji).
 Dialogue: 0,0:37:00.40,0:37:02.00,Default,,0,0,0,,Ogólnie rzecz biorąc, region\NPołtawy słynie z pięknych ludzi.
-Dialogue: 0,0:37:02.00,0:37:04.52,Default,,0,0,0,,Byłem w Kijowie przez długi czas,\Nwidziałem ludzi z regionu Połtawy.
+Dialogue: 0,0:37:02.00,0:37:04.52,Default,,0,0,0,,Zauważałem to w Kijowie,\Njak widziałem ludzi z Połtawy.
 Dialogue: 0,0:37:04.52,0:37:07.60,Default,,0,0,0,,Antropologia ludzi z regionu\NPołtawy jest bardzo piękna.
 Dialogue: 0,0:37:07.72,0:37:11.32,Default,,0,0,0,,To są typowi Ukraińcy z\Nregionu Dniepru, tacy piękni.
 Dialogue: 0,0:37:11.44,0:37:13.00,Другий похідник,,0,0,0,,2005 rok, ktoś jeszcze żył.
@@ -772,39 +772,39 @@ Dialogue: 0,0:37:37.60,0:37:39.04,Default,,0,0,0,,Ukraina jest opuszczona.
 Dialogue: 0,0:37:39.16,0:37:41.60,Default,,0,0,0,,Już o tym wspominałem,\No tej statystyce w Stohodye.
 Dialogue: 0,0:37:41.72,0:37:43.32,Default,,0,0,0,,Będzie temat o Stohodye.
 Dialogue: 0,0:37:43.44,0:37:45.44,Default,,0,0,0,,Ponad 4000 wiosek\Njest na skraju wymarcia.
-Dialogue: 0,0:37:45.56,0:37:47.28,Default,,0,0,0,,Tutaj oficjalnie zarejestrowanych\Njest prawie 50 osób.
-Dialogue: 0,0:37:47.28,0:37:48.44,Default,,0,0,0,,A właściwie są.
-Dialogue: 0,0:37:48.56,0:37:50.84,Default,,0,0,0,,Tutaj, w Slobidce,\Nzarejestrowanych jest 70 osób.
-Dialogue: 0,0:37:50.96,0:37:53.96,Default,,0,0,0,,Prawie 22 osoby mieszkają\Nz uchodźcami wewnętrznymi.
-Dialogue: 0,0:37:54.08,0:37:55.36,Default,,0,0,0,,Przyjeżdżają tu z ludźmi,\Nktórzy wciąż są w swoich daczy.
+Dialogue: 0,0:37:45.56,0:37:47.28,Default,,0,0,0,,To te gdzie zarejestrowanych\Njest prawie 50 osób.
+Dialogue: 0,0:37:47.28,0:37:48.44,Default,,0,0,0,,Albo faktycznie o takie (puste)
+Dialogue: 0,0:37:48.56,0:37:50.84,Default,,0,0,0,,Tutaj, w Słobidce,\Nzarejestrowanych jest 70 osób.
+Dialogue: 0,0:37:50.96,0:37:53.96,Default,,0,0,0,,A faktycznie 22 osoby mieszkają\Nz uchodźcami wewnętrznymi.
+Dialogue: 0,0:37:54.08,0:37:55.36,Default,,0,0,0,,Oraz z ludźmi, którzy przyjeżdżają\Ndo domków letniskowych.
 Dialogue: 0,0:37:55.36,0:37:56.12,Default,,0,0,0,,I latem.
 Dialogue: 0,0:37:56.24,0:37:58.68,Default,,0,0,0,,Może pięć osób zostaje tu na zimę.
 Dialogue: 0,0:37:58.80,0:38:01.04,Default,,0,0,0,,Wszystkie domy wyglądają tak.
-Dialogue: 0,0:38:18.72,0:38:21.04,Default,,0,0,0,,Wioska oficjalnie\Nnazywa się "Postav-Muka".
-Dialogue: 0,0:38:21.16,0:38:24.56,Default,,0,0,0,,Ale wszystkie lokalne i sąsiednie\Nwioski mówią "Postav-Muky".
+Dialogue: 0,0:38:18.72,0:38:21.04,Default,,0,0,0,,Wioska oficjalnie\Nnazywa się "Postaw-Muka".
+Dialogue: 0,0:38:21.16,0:38:24.56,Default,,0,0,0,,Ale wszystkie lokalne i sąsiednie\Nwioski mówią "Postaw-Muky".
 Dialogue: 0,0:38:24.68,0:38:26.44,Default,,0,0,0,,Nie będziemy mówić o pochodzeniu wsi.
 Dialogue: 0,0:38:26.56,0:38:29.12,Default,,0,0,0,,Oficjalnie ma to coś wspólnego\Nz faktem, że było tu wiele młynów.
 Dialogue: 0,0:38:29.16,0:38:30.00,Default,,0,0,0,,No i "Postaw Mąkę".
-Dialogue: 0,0:38:30.12,0:38:31.68,Default,,0,0,0,,Nawiasem mówiąc, kiedyś\Nzostałem skazany w Khashchi,
-Dialogue: 0,0:38:31.68,0:38:34.12,Default,,0,0,0,,że nazwałem "mąkę"\N(boroshno) po ukraińsku "muka".
+Dialogue: 0,0:38:30.12,0:38:31.68,Default,,0,0,0,,Nawiasem mówiąc, kiedyś\Nbyłem osądzany w "Chaszczach",
+Dialogue: 0,0:38:31.68,0:38:34.12,Default,,0,0,0,,że nazwałem "mąkę"\N(boroszno) po ukraińsku nazywam "muka".
 Dialogue: 0,0:38:34.24,0:38:36.04,Default,,0,0,0,,To bardzo błędny osąd.
 Dialogue: 0,0:38:36.16,0:38:39.16,Default,,0,0,0,,Przecież w języku ukraińskim jest to\Ncałkowicie ukraińskie słowo "muka".
 Dialogue: 0,0:38:39.28,0:38:40.48,Default,,0,0,0,,"Muka" i "mąka" (boroshno) to synonimy.
 Dialogue: 0,0:38:40.48,0:38:42.40,Default,,0,0,0,,I są one używane w różny\Nsposób w różnych regionach.
 Dialogue: 0,0:38:42.40,0:38:44.08,Default,,0,0,0,,Tutaj, w regionie Połtawy, nie\Nmówi się "mąka" (boroshno),
 Dialogue: 0,0:38:44.08,0:38:44.76,Default,,0,0,0,,mówią "mąka".
-Dialogue: 0,0:38:44.88,0:38:46.32,Default,,0,0,0,,A na Podolu wszyscy mówią "muka".
+Dialogue: 0,0:38:44.88,0:38:46.32,Default,,0,0,0,,A na Podolu też wszyscy mówią "muka".
 Dialogue: 0,0:38:46.44,0:38:48.20,Default,,0,0,0,,"Mąka" (boroshno) jest\Nbardzo rzadko używana.
-Dialogue: 0,0:38:48.32,0:38:52.28,Default,,0,0,0,,Pewnego razu miejscowy etnograf\Nz dzielnicy Chornukhy powiedział mi,
+Dialogue: 0,0:38:48.32,0:38:52.28,Default,,0,0,0,,Pewnego razu miejscowy etnograf\Nz rejonu Chornuchyńskiego powiedział mi,
 Dialogue: 0,0:38:52.40,0:38:54.32,Default,,0,0,0,,że w tej wiosce jest wiele\Ndomów pod trzcinami.
 Dialogue: 0,0:38:54.44,0:38:55.20,Default,,0,0,0,,A teraz weszliśmy do wioski.
-Dialogue: 0,0:38:55.32,0:38:56.80,Default,,0,0,0,,Na podwórku są tylko\Nludzie, niektórzy młodzi,
-Dialogue: 0,0:38:56.80,0:38:57.60,Default,,0,0,0,,na podwórku, grillują kebaby.
-Dialogue: 0,0:38:57.72,0:38:59.16,Default,,0,0,0,,Naprawdę mają te szopy pod trzcinami.
-Dialogue: 0,0:38:59.16,0:39:00.80,Default,,0,0,0,,A oto kolejna stara szopa pod trzcinami,
+Dialogue: 0,0:38:55.32,0:38:56.80,Default,,0,0,0,,Tam są jacyć ludzie na podwórku.\NJakaś młodzież.
+Dialogue: 0,0:38:56.80,0:38:57.60,Default,,0,0,0,,smażą szaszłyki.
+Dialogue: 0,0:38:57.72,0:38:59.16,Default,,0,0,0,,Mają szopę pod trzciną.
+Dialogue: 0,0:38:59.16,0:39:00.80,Default,,0,0,0,,A tu inna stara szopa pod trzciną.
 Dialogue: 0,0:39:00.92,0:39:02.84,Default,,0,0,0,,Nie są opuszczone, jak\Nw poprzedniej wiosce,
-Dialogue: 0,0:39:02.96,0:39:04.72,Default,,0,0,0,,i tutaj funkcjonują, są wydajne.
-Dialogue: 0,0:39:04.84,0:39:07.16,Default,,0,0,0,,Nadal jest tam bydło i trochę sprzętu.
+Dialogue: 0,0:39:02.96,0:39:04.72,Default,,0,0,0,,i tutaj funkcjonują, działają.
+Dialogue: 0,0:39:04.84,0:39:07.16,Default,,0,0,0,,Nadal jest tam bydło albo narzędzia stoją.
 Dialogue: 0,0:39:07.28,0:39:11.64,Default,,0,0,0,,Ale ta wioska jest wyraźnie\Nwiększa, nie wiem, dziesięć osób.
 Dialogue: 0,0:39:11.76,0:39:12.88,Default,,0,0,0,,Czuje się, że tu jest życie.
 Dialogue: 0,0:39:12.88,0:39:14.40,Default,,0,0,0,,Nie ma tu nieużytków,\Nprzynajmniej na głównej ulicy,
